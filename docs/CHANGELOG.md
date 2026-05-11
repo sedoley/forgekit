@@ -957,3 +957,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.92.5] - 2026-05-11
 - perf: clean utility for commit #2092
+
+### [0.97.2] - 2026-05-11
+- feat(core): clean utility for commit #2097
