@@ -1539,3 +1539,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.7.3] - 2026-05-11
 - style(tests): optimize utility for commit #3307
+
+### [0.8.3] - 2026-05-11
+- perf(app): update utility for commit #3308
