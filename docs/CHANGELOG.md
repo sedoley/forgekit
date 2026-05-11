@@ -2307,3 +2307,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.37.9] - 2026-05-11
 - perf: fix utility for commit #4937
+
+### [0.38.6] - 2026-05-11
+- style(docs): enhance utility for commit #4938
