@@ -3954,3 +3954,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.23.6] - 2026-05-11
 - chore(utils): fix utility for commit #8823
+
+### [0.27.6] - 2026-05-11
+- test(tests): enhance utility for commit #8827
