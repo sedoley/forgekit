@@ -1950,3 +1950,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.83.8] - 2026-05-11
 - chore(tests): enhance utility for commit #4083
+
+### [0.90.5] - 2026-05-11
+- fix(tests): update utility for commit #4090
