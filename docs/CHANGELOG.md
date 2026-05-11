@@ -3480,3 +3480,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.88.8] - 2026-05-11
 - refactor(docs): add utility for commit #7588
+
+### [0.93.2] - 2026-05-11
+- style(utils): improve utility for commit #7593
