@@ -4050,3 +4050,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.0.8] - 2026-05-11
 - refactor(app): optimize utility for commit #9100
+
+### [0.3.5] - 2026-05-11
+- refactor(core): enhance utility for commit #9103
