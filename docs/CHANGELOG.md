@@ -3801,3 +3801,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.5.6] - 2026-05-11
 - chore(ci): update utility for commit #8405
+
+### [0.8.2] - 2026-05-11
+- refactor: optimize utility for commit #8408
