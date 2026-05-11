@@ -3327,3 +3327,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.68.6] - 2026-05-11
 - style(ci): add utility for commit #7268
+
+### [0.87.2] - 2026-05-11
+- chore(tests): improve utility for commit #7287
