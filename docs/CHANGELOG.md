@@ -4404,3 +4404,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.31.5] - 2026-05-11
 - feat(ci): improve utility for commit #9931
+
+### [0.39.1] - 2026-05-11
+- style(docs): clean utility for commit #9939
