@@ -443,3 +443,4 @@ jobs:
       - name: Test commit #2947
       - name: Test commit #2953
       - name: Test commit #2959
+      - name: Test commit #2967
