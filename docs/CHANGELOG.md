@@ -2049,3 +2049,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.60.1] - 2026-05-11
 - ci(core): improve utility for commit #4360
+
+### [0.63.1] - 2026-05-11
+- chore(utils): add utility for commit #4363
