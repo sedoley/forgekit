@@ -2163,3 +2163,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.17.7] - 2026-05-11
 - perf: enhance utility for commit #4617
+
+### [0.23.1] - 2026-05-11
+- refactor(utils): refactor utility for commit #4623
