@@ -1338,3 +1338,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.43.2] - 2026-05-11
 - perf(utils): update utility for commit #2843
+
+### [0.45.0] - 2026-05-11
+- perf(docs): optimize utility for commit #2845
