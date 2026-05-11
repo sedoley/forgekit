@@ -2208,3 +2208,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.34.6] - 2026-05-11
 - ci: clean utility for commit #4734
+
+### [0.47.8] - 2026-05-11
+- ci(app): update utility for commit #4747
