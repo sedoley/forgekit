@@ -2703,3 +2703,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.94.9] - 2026-05-11
 - refactor(ci): clean utility for commit #5894
+
+### [0.10.3] - 2026-05-11
+- perf(app): update utility for commit #5910
