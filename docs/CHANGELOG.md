@@ -1530,3 +1530,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.71.5] - 2026-05-11
 - feat(utils): improve utility for commit #3271
+
+### [0.83.2] - 2026-05-11
+- perf(ci): document utility for commit #3283
