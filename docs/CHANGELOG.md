@@ -4323,3 +4323,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.86.2] - 2026-05-11
 - feat(tests): document utility for commit #9686
+
+### [0.0.8] - 2026-05-11
+- chore(ci): add utility for commit #9700
