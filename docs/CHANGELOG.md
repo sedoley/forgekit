@@ -2751,3 +2751,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.20.7] - 2026-05-11
 - fix(docs): update utility for commit #6020
+
+### [0.32.2] - 2026-05-11
+- ci(core): add utility for commit #6032
