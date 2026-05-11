@@ -762,3 +762,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.49.3] - 2026-05-11
 - ci(tests): document utility for commit #1649
+
+### [0.58.7] - 2026-05-11
+- feat(docs): update utility for commit #1658
