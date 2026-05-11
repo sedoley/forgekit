@@ -2016,3 +2016,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.77.8] - 2026-05-11
 - ci(tests): enhance utility for commit #4277
+
+### [0.90.0] - 2026-05-11
+- ci: enhance utility for commit #4290
