@@ -9,3 +9,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.3.7] - 2026-05-11
 - perf(docs): optimize utility for commit #3
+
+### [0.4.7] - 2026-05-11
+- ci(tests): clean utility for commit #4
