@@ -63,3 +63,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.76.3] - 2026-05-11
 - fix(utils): document utility for commit #76
+
+### [0.82.8] - 2026-05-11
+- chore(docs): add utility for commit #82
