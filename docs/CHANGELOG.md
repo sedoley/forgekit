@@ -2610,3 +2610,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.68.2] - 2026-05-11
 - docs(tests): add utility for commit #5668
+
+### [0.79.3] - 2026-05-11
+- chore(core): update utility for commit #5679
