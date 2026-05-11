@@ -1920,3 +1920,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.41.0] - 2026-05-11
 - ci(docs): optimize utility for commit #4041
+
+### [0.43.9] - 2026-05-11
+- style(utils): add utility for commit #4043
