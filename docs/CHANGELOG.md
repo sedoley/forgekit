@@ -1170,3 +1170,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.22.3] - 2026-05-11
 - fix(app): improve utility for commit #2522
+
+### [0.23.2] - 2026-05-11
+- feat(core): document utility for commit #2523
