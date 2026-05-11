@@ -1464,3 +1464,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.51.2] - 2026-05-11
 - fix(tests): optimize utility for commit #3151
+
+### [0.55.1] - 2026-05-11
+- fix(core): document utility for commit #3155
