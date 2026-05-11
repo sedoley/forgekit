@@ -1893,3 +1893,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.88.8] - 2026-05-11
 - docs(core): fix utility for commit #3988
+
+### [0.91.6] - 2026-05-11
+- docs: update utility for commit #3991
