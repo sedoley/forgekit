@@ -1485,3 +1485,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.88.1] - 2026-05-11
 - docs(app): refactor utility for commit #3188
+
+### [0.91.9] - 2026-05-11
+- fix(ci): clean utility for commit #3191
