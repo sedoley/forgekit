@@ -1926,3 +1926,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.44.2] - 2026-05-11
 - fix(core): update utility for commit #4044
+
+### [0.46.1] - 2026-05-11
+- refactor(tests): clean utility for commit #4046
