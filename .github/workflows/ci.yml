@@ -528,3 +528,4 @@ jobs:
       - name: Test commit #3681
       - name: Test commit #3682
       - name: Test commit #3694
+      - name: Test commit #3695
