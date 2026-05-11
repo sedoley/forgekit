@@ -1662,3 +1662,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.57.1] - 2026-05-11
 - chore(app): optimize utility for commit #3557
+
+### [0.60.9] - 2026-05-11
+- refactor(docs): document utility for commit #3560
