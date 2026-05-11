@@ -3606,3 +3606,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.0.3] - 2026-05-11
 - ci: refactor utility for commit #7900
+
+### [0.1.8] - 2026-05-11
+- test(core): optimize utility for commit #7901
