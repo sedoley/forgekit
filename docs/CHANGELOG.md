@@ -3123,3 +3123,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.62.9] - 2026-05-11
 - style(utils): improve utility for commit #6862
+
+### [0.65.5] - 2026-05-11
+- style(tests): clean utility for commit #6865
