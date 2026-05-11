@@ -519,3 +519,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.1.8] - 2026-05-11
 - style(utils): improve utility for commit #1101
+
+### [0.2.7] - 2026-05-11
+- style(docs): refactor utility for commit #1102
