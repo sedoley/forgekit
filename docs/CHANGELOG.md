@@ -2805,3 +2805,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.54.0] - 2026-05-11
 - perf(tests): add utility for commit #6154
+
+### [0.63.4] - 2026-05-11
+- feat(docs): update utility for commit #6163
