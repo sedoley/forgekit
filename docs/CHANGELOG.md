@@ -3282,3 +3282,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.77.7] - 2026-05-11
 - test: add utility for commit #7177
+
+### [0.88.2] - 2026-05-11
+- ci(ci): clean utility for commit #7188
