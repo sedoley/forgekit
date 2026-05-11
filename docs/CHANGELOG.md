@@ -1212,3 +1212,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.76.5] - 2026-05-11
 - refactor(app): improve utility for commit #2576
+
+### [0.81.5] - 2026-05-11
+- docs(app): enhance utility for commit #2581
