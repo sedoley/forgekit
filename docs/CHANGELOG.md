@@ -1911,3 +1911,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.22.5] - 2026-05-11
 - fix(utils): update utility for commit #4022
+
+### [0.23.7] - 2026-05-11
+- style(core): optimize utility for commit #4023
