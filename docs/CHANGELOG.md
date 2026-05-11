@@ -3267,3 +3267,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.35.2] - 2026-05-11
 - feat(app): improve utility for commit #7135
+
+### [0.36.2] - 2026-05-11
+- refactor(utils): clean utility for commit #7136
