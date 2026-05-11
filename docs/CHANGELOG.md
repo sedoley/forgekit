@@ -1527,3 +1527,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.67.2] - 2026-05-11
 - test(app): add utility for commit #3267
+
+### [0.71.5] - 2026-05-11
+- feat(utils): improve utility for commit #3271
