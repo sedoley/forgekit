@@ -933,3 +933,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.34.3] - 2026-05-11
 - feat(docs): fix utility for commit #2034
+
+### [0.37.8] - 2026-05-11
+- chore(docs): add utility for commit #2037
