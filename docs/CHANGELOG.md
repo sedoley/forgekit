@@ -2433,3 +2433,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.23.9] - 2026-05-11
 - style(tests): document utility for commit #5223
+
+### [0.24.4] - 2026-05-11
+- refactor(ci): clean utility for commit #5224
