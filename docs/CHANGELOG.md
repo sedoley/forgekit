@@ -138,3 +138,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.31.0] - 2026-05-11
 - style(ci): enhance utility for commit #231
+
+### [0.63.0] - 2026-05-11
+- test(core): optimize utility for commit #263
