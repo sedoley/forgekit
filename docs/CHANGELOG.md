@@ -321,3 +321,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.12.3] - 2026-05-11
 - chore(docs): fix utility for commit #712
+
+### [0.16.9] - 2026-05-11
+- perf(utils): fix utility for commit #716
