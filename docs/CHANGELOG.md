@@ -15,3 +15,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.5.0] - 2026-05-11
 - ci(docs): update utility for commit #5
+
+### [0.13.0] - 2026-05-11
+- ci(tests): add utility for commit #13
