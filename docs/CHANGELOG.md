@@ -4161,3 +4161,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.6.6] - 2026-05-11
 - chore(ci): improve utility for commit #9306
+
+### [0.10.2] - 2026-05-11
+- test: clean utility for commit #9310
