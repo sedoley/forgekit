@@ -1152,3 +1152,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.95.8] - 2026-05-11
 - chore(app): clean utility for commit #2495
+
+### [0.96.3] - 2026-05-11
+- test(docs): enhance utility for commit #2496
