@@ -90,3 +90,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.23.8] - 2026-05-11
 - ci(ci): document utility for commit #123
+
+### [0.27.4] - 2026-05-11
+- style: document utility for commit #127
