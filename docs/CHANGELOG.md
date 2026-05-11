@@ -1443,3 +1443,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.85.6] - 2026-05-11
 - ci: document utility for commit #3085
+
+### [0.86.2] - 2026-05-11
+- style(tests): optimize utility for commit #3086
