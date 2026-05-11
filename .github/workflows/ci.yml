@@ -24,3 +24,4 @@ jobs:
       - name: Test commit #41
       - name: Test commit #44
       - name: Test commit #54
+      - name: Test commit #60
