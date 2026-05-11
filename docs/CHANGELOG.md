@@ -777,3 +777,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.70.8] - 2026-05-11
 - style: improve utility for commit #1670
+
+### [0.72.3] - 2026-05-11
+- chore(utils): optimize utility for commit #1672
