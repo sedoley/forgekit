@@ -1335,3 +1335,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.33.1] - 2026-05-11
 - fix(utils): fix utility for commit #2833
+
+### [0.43.2] - 2026-05-11
+- perf(utils): update utility for commit #2843
