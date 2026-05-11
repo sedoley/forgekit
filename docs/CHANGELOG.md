@@ -1188,3 +1188,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.50.8] - 2026-05-11
 - chore(core): enhance utility for commit #2550
+
+### [0.53.7] - 2026-05-11
+- perf(utils): optimize utility for commit #2553
