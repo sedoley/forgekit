@@ -3060,3 +3060,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.20.3] - 2026-05-11
 - style: clean utility for commit #6720
+
+### [0.24.2] - 2026-05-11
+- style(utils): document utility for commit #6724
