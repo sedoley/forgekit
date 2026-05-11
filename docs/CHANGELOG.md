@@ -1506,3 +1506,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.29.1] - 2026-05-11
 - test(ci): fix utility for commit #3229
+
+### [0.40.4] - 2026-05-11
+- docs(app): document utility for commit #3240
