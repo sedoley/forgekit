@@ -1233,3 +1233,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.19.5] - 2026-05-11
 - perf(tests): clean utility for commit #2619
+
+### [0.22.1] - 2026-05-11
+- ci(ci): add utility for commit #2622
