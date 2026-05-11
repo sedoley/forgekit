@@ -510,3 +510,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.87.5] - 2026-05-11
 - refactor(core): update utility for commit #1087
+
+### [0.88.7] - 2026-05-11
+- style: optimize utility for commit #1088
