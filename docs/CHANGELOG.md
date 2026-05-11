@@ -2196,3 +2196,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.90.3] - 2026-05-11
 - test: add utility for commit #4690
+
+### [0.94.8] - 2026-05-11
+- feat: add utility for commit #4694
