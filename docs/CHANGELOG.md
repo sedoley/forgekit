@@ -144,3 +144,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.65.9] - 2026-05-11
 - refactor(core): clean utility for commit #265
+
+### [0.69.7] - 2026-05-11
+- style(app): improve utility for commit #269
