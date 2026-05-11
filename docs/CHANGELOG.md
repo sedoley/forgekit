@@ -849,3 +849,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.50.9] - 2026-05-11
 - chore(tests): optimize utility for commit #1850
+
+### [0.63.1] - 2026-05-11
+- fix(ci): enhance utility for commit #1863
