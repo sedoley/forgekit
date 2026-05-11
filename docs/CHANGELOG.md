@@ -1983,3 +1983,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.82.4] - 2026-05-11
 - feat(utils): fix utility for commit #4182
+
+### [0.5.6] - 2026-05-11
+- test(app): optimize utility for commit #4205
