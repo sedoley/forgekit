@@ -2280,3 +2280,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.93.9] - 2026-05-11
 - chore(docs): improve utility for commit #4893
+
+### [0.0.1] - 2026-05-11
+- ci(core): clean utility for commit #4900
