@@ -3195,3 +3195,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.10.1] - 2026-05-11
 - perf(utils): fix utility for commit #7010
+
+### [0.11.1] - 2026-05-11
+- perf(docs): optimize utility for commit #7011
