@@ -1416,3 +1416,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.3.0] - 2026-05-11
 - test(docs): fix utility for commit #3003
+
+### [0.16.5] - 2026-05-11
+- style: optimize utility for commit #3016
