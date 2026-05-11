@@ -1704,3 +1704,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.42.5] - 2026-05-11
 - ci(utils): clean utility for commit #3642
+
+### [0.44.6] - 2026-05-11
+- style(utils): improve utility for commit #3644
