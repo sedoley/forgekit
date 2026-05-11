@@ -2001,3 +2001,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.44.3] - 2026-05-11
 - test(tests): optimize utility for commit #4244
+
+### [0.50.8] - 2026-05-11
+- feat(tests): document utility for commit #4250
