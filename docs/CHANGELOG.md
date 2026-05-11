@@ -2238,3 +2238,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.16.3] - 2026-05-11
 - feat(docs): fix utility for commit #4816
+
+### [0.18.3] - 2026-05-11
+- perf(tests): refactor utility for commit #4818
