@@ -2214,3 +2214,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.51.6] - 2026-05-11
 - feat(ci): improve utility for commit #4751
+
+### [0.57.4] - 2026-05-11
+- ci: document utility for commit #4757
