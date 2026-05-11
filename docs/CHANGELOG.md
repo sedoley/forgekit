@@ -2388,3 +2388,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.33.5] - 2026-05-11
 - chore(ci): clean utility for commit #5133
+
+### [0.48.7] - 2026-05-11
+- perf(utils): refactor utility for commit #5148
