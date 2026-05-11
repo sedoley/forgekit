@@ -2418,3 +2418,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.88.3] - 2026-05-11
 - fix(docs): add utility for commit #5188
+
+### [0.2.1] - 2026-05-11
+- ci(docs): optimize utility for commit #5202
