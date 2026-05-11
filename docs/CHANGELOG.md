@@ -51,3 +51,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.46.7] - 2026-05-11
 - refactor(core): enhance utility for commit #46
+
+### [0.47.1] - 2026-05-11
+- perf(utils): clean utility for commit #47
