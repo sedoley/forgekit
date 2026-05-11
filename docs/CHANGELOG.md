@@ -24,3 +24,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.15.5] - 2026-05-11
 - refactor: refactor utility for commit #15
+
+### [0.16.8] - 2026-05-11
+- test(docs): improve utility for commit #16
