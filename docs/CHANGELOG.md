@@ -1314,3 +1314,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.91.5] - 2026-05-11
 - docs(utils): update utility for commit #2791
+
+### [0.92.5] - 2026-05-11
+- feat(ci): add utility for commit #2792
