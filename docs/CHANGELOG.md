@@ -1356,3 +1356,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.71.8] - 2026-05-11
 - style(ci): add utility for commit #2871
+
+### [0.80.5] - 2026-05-11
+- refactor(app): document utility for commit #2880
