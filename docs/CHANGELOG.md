@@ -1722,3 +1722,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.90.1] - 2026-05-11
 - docs: fix utility for commit #3690
+
+### [0.93.9] - 2026-05-11
+- chore(app): clean utility for commit #3693
