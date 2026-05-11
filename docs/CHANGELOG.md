@@ -2400,3 +2400,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.56.1] - 2026-05-11
 - perf(utils): improve utility for commit #5156
+
+### [0.57.4] - 2026-05-11
+- test(ci): update utility for commit #5157
