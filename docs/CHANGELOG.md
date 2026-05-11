@@ -12,3 +12,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.4.7] - 2026-05-11
 - ci(tests): clean utility for commit #4
+
+### [0.5.0] - 2026-05-11
+- ci(docs): update utility for commit #5
