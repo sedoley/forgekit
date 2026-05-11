@@ -3885,3 +3885,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.17.5] - 2026-05-11
 - style(tests): document utility for commit #8617
+
+### [0.21.0] - 2026-05-11
+- fix(docs): enhance utility for commit #8621
