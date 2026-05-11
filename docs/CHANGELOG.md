@@ -4293,3 +4293,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.9.0] - 2026-05-11
 - feat(tests): update utility for commit #9609
+
+### [0.14.4] - 2026-05-11
+- test(docs): improve utility for commit #9614
