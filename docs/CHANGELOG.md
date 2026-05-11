@@ -3333,3 +3333,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.89.9] - 2026-05-11
 - fix(ci): fix utility for commit #7289
+
+### [0.90.5] - 2026-05-11
+- ci(app): enhance utility for commit #7290
