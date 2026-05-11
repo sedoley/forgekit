@@ -1197,3 +1197,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.60.9] - 2026-05-11
 - test(tests): clean utility for commit #2560
+
+### [0.64.7] - 2026-05-11
+- chore(app): document utility for commit #2564
