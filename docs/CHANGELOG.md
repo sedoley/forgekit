@@ -459,3 +459,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.72.1] - 2026-05-11
 - perf: refactor utility for commit #972
+
+### [0.73.0] - 2026-05-11
+- style(tests): refactor utility for commit #973
