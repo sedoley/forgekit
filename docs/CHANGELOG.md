@@ -444,3 +444,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.38.9] - 2026-05-11
 - style: enhance utility for commit #938
+
+### [0.50.1] - 2026-05-11
+- fix(tests): clean utility for commit #950
