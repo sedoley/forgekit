@@ -3462,3 +3462,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.37.4] - 2026-05-11
 - style(core): improve utility for commit #7537
+
+### [0.38.2] - 2026-05-11
+- perf(tests): clean utility for commit #7538
