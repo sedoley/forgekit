@@ -1764,3 +1764,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.55.5] - 2026-05-11
 - style(utils): fix utility for commit #3755
+
+### [0.57.7] - 2026-05-11
+- refactor(tests): improve utility for commit #3757
