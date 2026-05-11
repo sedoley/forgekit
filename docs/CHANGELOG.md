@@ -177,3 +177,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.54.9] - 2026-05-11
 - perf(core): fix utility for commit #354
+
+### [0.56.4] - 2026-05-11
+- test: enhance utility for commit #356
