@@ -3153,3 +3153,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.18.7] - 2026-05-11
 - chore: document utility for commit #6918
+
+### [0.27.7] - 2026-05-11
+- docs(docs): refactor utility for commit #6927
