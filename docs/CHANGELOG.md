@@ -1647,3 +1647,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.31.3] - 2026-05-11
 - refactor(core): fix utility for commit #3531
+
+### [0.32.8] - 2026-05-11
+- docs(ci): clean utility for commit #3532
