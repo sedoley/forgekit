@@ -45,3 +45,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.39.1] - 2026-05-11
 - fix(docs): clean utility for commit #39
+
+### [0.45.2] - 2026-05-11
+- perf(core): fix utility for commit #45
