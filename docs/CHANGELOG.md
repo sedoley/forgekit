@@ -1752,3 +1752,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.40.0] - 2026-05-11
 - feat(docs): update utility for commit #3740
+
+### [0.41.0] - 2026-05-11
+- feat: document utility for commit #3741
