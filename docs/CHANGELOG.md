@@ -66,3 +66,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.82.8] - 2026-05-11
 - chore(docs): add utility for commit #82
+
+### [0.85.2] - 2026-05-11
+- fix(tests): enhance utility for commit #85
