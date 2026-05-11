@@ -57,3 +57,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.51.4] - 2026-05-11
 - perf(docs): refactor utility for commit #51
+
+### [0.57.9] - 2026-05-11
+- feat(app): fix utility for commit #57
