@@ -3330,3 +3330,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.87.2] - 2026-05-11
 - chore(tests): improve utility for commit #7287
+
+### [0.89.9] - 2026-05-11
+- fix(ci): fix utility for commit #7289
