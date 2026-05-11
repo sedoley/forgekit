@@ -3042,3 +3042,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.90.2] - 2026-05-11
 - feat(docs): fix utility for commit #6690
+
+### [0.99.4] - 2026-05-11
+- docs(utils): document utility for commit #6699
