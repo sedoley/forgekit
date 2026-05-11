@@ -822,3 +822,4 @@ jobs:
       - name: Test commit #5950
       - name: Test commit #5962
       - name: Test commit #5978
+      - name: Test commit #5981
