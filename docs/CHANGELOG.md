@@ -2859,3 +2859,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.72.2] - 2026-05-11
 - feat(utils): optimize utility for commit #6272
+
+### [0.79.0] - 2026-05-11
+- test(core): document utility for commit #6279
