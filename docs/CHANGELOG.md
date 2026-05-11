@@ -876,3 +876,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.5.8] - 2026-05-11
 - chore(ci): document utility for commit #1905
+
+### [0.10.8] - 2026-05-11
+- chore(docs): refactor utility for commit #1910
