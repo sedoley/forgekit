@@ -75,3 +75,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.99.4] - 2026-05-11
 - test(docs): optimize utility for commit #99
+
+### [0.3.8] - 2026-05-11
+- chore(ci): optimize utility for commit #103
