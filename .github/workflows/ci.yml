@@ -800,3 +800,4 @@ jobs:
       - name: Test commit #5703
       - name: Test commit #5708
       - name: Test commit #5723
+      - name: Test commit #5739
