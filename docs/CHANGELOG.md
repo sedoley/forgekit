@@ -408,3 +408,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.84.1] - 2026-05-11
 - docs(ci): update utility for commit #884
+
+### [0.90.1] - 2026-05-11
+- chore(docs): update utility for commit #890
