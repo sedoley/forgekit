@@ -4209,3 +4209,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.92.2] - 2026-05-11
 - ci(tests): add utility for commit #9392
+
+### [0.98.5] - 2026-05-11
+- style(ci): refactor utility for commit #9398
