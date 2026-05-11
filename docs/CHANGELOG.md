@@ -2838,3 +2838,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.13.5] - 2026-05-11
 - ci(docs): optimize utility for commit #6213
+
+### [0.16.5] - 2026-05-11
+- fix(tests): clean utility for commit #6216
