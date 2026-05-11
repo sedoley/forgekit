@@ -4248,3 +4248,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.77.1] - 2026-05-11
 - fix(docs): improve utility for commit #9477
+
+### [0.91.9] - 2026-05-11
+- chore(app): add utility for commit #9491
