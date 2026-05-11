@@ -516,3 +516,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.98.0] - 2026-05-11
 - docs(app): add utility for commit #1098
+
+### [0.1.8] - 2026-05-11
+- style(utils): improve utility for commit #1101
