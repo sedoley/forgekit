@@ -2226,3 +2226,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.86.0] - 2026-05-11
 - chore(ci): add utility for commit #4786
+
+### [0.90.1] - 2026-05-11
+- style: update utility for commit #4790
