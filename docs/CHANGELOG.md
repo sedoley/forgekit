@@ -3183,3 +3183,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.88.2] - 2026-05-11
 - perf: clean utility for commit #6988
+
+### [0.95.5] - 2026-05-11
+- refactor(core): optimize utility for commit #6995
