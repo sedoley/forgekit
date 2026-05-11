@@ -1074,3 +1074,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.96.1] - 2026-05-11
 - test(docs): clean utility for commit #2296
+
+### [0.99.3] - 2026-05-11
+- fix(docs): optimize utility for commit #2299
