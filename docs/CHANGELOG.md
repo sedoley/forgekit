@@ -3603,3 +3603,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.94.9] - 2026-05-11
 - docs: fix utility for commit #7894
+
+### [0.0.3] - 2026-05-11
+- ci: refactor utility for commit #7900
