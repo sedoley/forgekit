@@ -4368,3 +4368,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.0.1] - 2026-05-11
 - fix(tests): document utility for commit #9800
+
+### [0.8.2] - 2026-05-11
+- test(ci): fix utility for commit #9808
