@@ -153,3 +153,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.96.9] - 2026-05-11
 - style(core): add utility for commit #296
+
+### [0.98.6] - 2026-05-11
+- fix(tests): update utility for commit #298
