@@ -2088,3 +2088,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.29.7] - 2026-05-11
 - chore(utils): improve utility for commit #4429
+
+### [0.43.6] - 2026-05-11
+- test(app): enhance utility for commit #4443
