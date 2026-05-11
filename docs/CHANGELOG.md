@@ -2319,3 +2319,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.50.6] - 2026-05-11
 - style(app): refactor utility for commit #4950
+
+### [0.52.2] - 2026-05-11
+- feat(core): clean utility for commit #4952
