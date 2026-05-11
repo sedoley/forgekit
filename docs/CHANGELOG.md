@@ -42,3 +42,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.38.6] - 2026-05-11
 - ci(docs): optimize utility for commit #38
+
+### [0.39.1] - 2026-05-11
+- fix(docs): clean utility for commit #39
