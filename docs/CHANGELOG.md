@@ -2982,3 +2982,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.67.3] - 2026-05-11
 - docs(ci): add utility for commit #6567
+
+### [0.70.8] - 2026-05-11
+- style: update utility for commit #6570
