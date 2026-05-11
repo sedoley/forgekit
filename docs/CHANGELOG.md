@@ -357,3 +357,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.67.2] - 2026-05-11
 - chore: add utility for commit #767
+
+### [0.69.4] - 2026-05-11
+- test(utils): fix utility for commit #769
