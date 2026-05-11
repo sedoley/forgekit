@@ -2853,3 +2853,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.34.1] - 2026-05-11
 - perf(tests): optimize utility for commit #6234
+
+### [0.55.8] - 2026-05-11
+- feat(tests): document utility for commit #6255
