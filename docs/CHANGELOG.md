@@ -1965,3 +1965,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.54.1] - 2026-05-11
 - refactor(tests): clean utility for commit #4154
+
+### [0.56.4] - 2026-05-11
+- perf(docs): fix utility for commit #4156
