@@ -804,3 +804,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.65.5] - 2026-05-11
 - feat(utils): document utility for commit #1765
+
+### [0.66.4] - 2026-05-11
+- feat: document utility for commit #1766
