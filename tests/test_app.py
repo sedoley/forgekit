@@ -13,3 +13,7 @@ def test_process_data():
 # Helper added in commit #23
 def helper_23():
     return "real-change-23"
+
+# Helper added in commit #24
+def helper_24():
+    return "real-change-24"
