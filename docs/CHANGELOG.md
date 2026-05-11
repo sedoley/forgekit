@@ -432,3 +432,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.16.2] - 2026-05-11
 - style(ci): clean utility for commit #916
+
+### [0.21.8] - 2026-05-11
+- fix: clean utility for commit #921
