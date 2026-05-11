@@ -2301,3 +2301,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.22.5] - 2026-05-11
 - chore: improve utility for commit #4922
+
+### [0.34.1] - 2026-05-11
+- perf(tests): clean utility for commit #4934
