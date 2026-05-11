@@ -1221,3 +1221,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.86.1] - 2026-05-11
 - test: add utility for commit #2586
+
+### [0.96.0] - 2026-05-11
+- perf(docs): document utility for commit #2596
