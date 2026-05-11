@@ -1068,3 +1068,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.86.9] - 2026-05-11
 - perf: update utility for commit #2286
+
+### [0.95.6] - 2026-05-11
+- fix(core): update utility for commit #2295
