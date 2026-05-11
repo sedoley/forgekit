@@ -186,3 +186,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.74.2] - 2026-05-11
 - docs(tests): document utility for commit #374
+
+### [0.81.7] - 2026-05-11
+- test(core): refactor utility for commit #381
