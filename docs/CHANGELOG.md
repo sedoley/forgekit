@@ -2637,3 +2637,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.53.5] - 2026-05-11
 - style(app): optimize utility for commit #5753
+
+### [0.68.3] - 2026-05-11
+- chore(utils): optimize utility for commit #5768
