@@ -2007,3 +2007,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.53.3] - 2026-05-11
 - feat(core): refactor utility for commit #4253
+
+### [0.66.2] - 2026-05-11
+- docs(core): update utility for commit #4266
