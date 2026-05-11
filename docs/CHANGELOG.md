@@ -1428,3 +1428,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.50.5] - 2026-05-11
 - refactor(ci): optimize utility for commit #3050
+
+### [0.72.7] - 2026-05-11
+- style(core): add utility for commit #3072
