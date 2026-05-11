@@ -1419,3 +1419,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.16.5] - 2026-05-11
 - style: optimize utility for commit #3016
+
+### [0.31.1] - 2026-05-11
+- feat(tests): enhance utility for commit #3031
