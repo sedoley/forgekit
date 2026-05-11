@@ -3552,3 +3552,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.41.2] - 2026-05-11
 - test(docs): document utility for commit #7741
+
+### [0.44.1] - 2026-05-11
+- fix(docs): add utility for commit #7744
