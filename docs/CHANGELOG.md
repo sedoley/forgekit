@@ -4197,3 +4197,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.81.8] - 2026-05-11
 - perf(utils): add utility for commit #9381
+
+### [0.83.8] - 2026-05-11
+- feat(utils): improve utility for commit #9383
