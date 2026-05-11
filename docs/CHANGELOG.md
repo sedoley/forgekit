@@ -4320,3 +4320,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.77.1] - 2026-05-11
 - refactor(docs): add utility for commit #9677
+
+### [0.86.2] - 2026-05-11
+- feat(tests): document utility for commit #9686
