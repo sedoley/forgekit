@@ -564,3 +564,4 @@ jobs:
       - name: Test commit #4017
       - name: Test commit #4060
       - name: Test commit #4064
+      - name: Test commit #4066
