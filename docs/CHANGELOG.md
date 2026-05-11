@@ -4299,3 +4299,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.19.2] - 2026-05-11
 - docs(utils): refactor utility for commit #9619
+
+### [0.21.5] - 2026-05-11
+- fix(utils): fix utility for commit #9621
