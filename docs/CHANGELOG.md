@@ -1116,3 +1116,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.99.0] - 2026-05-11
 - test(utils): update utility for commit #2399
+
+### [0.11.1] - 2026-05-11
+- refactor(docs): enhance utility for commit #2411
