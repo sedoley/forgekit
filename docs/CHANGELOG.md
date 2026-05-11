@@ -972,3 +972,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.28.6] - 2026-05-11
 - docs: update utility for commit #2128
+
+### [0.29.7] - 2026-05-11
+- refactor(tests): add utility for commit #2129
