@@ -4422,3 +4422,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.76.1] - 2026-05-11
 - chore(docs): optimize utility for commit #9976
+
+### [0.78.4] - 2026-05-11
+- fix(docs): fix utility for commit #9978
