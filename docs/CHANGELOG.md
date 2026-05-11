@@ -3264,3 +3264,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.28.4] - 2026-05-11
 - chore: add utility for commit #7128
+
+### [0.35.2] - 2026-05-11
+- feat(app): improve utility for commit #7135
