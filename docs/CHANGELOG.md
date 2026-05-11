@@ -3420,3 +3420,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.80.0] - 2026-05-11
 - test(app): update utility for commit #7480
+
+### [0.82.7] - 2026-05-11
+- refactor(tests): refactor utility for commit #7482
