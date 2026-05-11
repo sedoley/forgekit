@@ -1308,3 +1308,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.79.9] - 2026-05-11
 - fix: enhance utility for commit #2779
+
+### [0.84.3] - 2026-05-11
+- docs: update utility for commit #2784
