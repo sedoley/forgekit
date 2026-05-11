@@ -4158,3 +4158,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.5.9] - 2026-05-11
 - docs: improve utility for commit #9305
+
+### [0.6.6] - 2026-05-11
+- chore(ci): improve utility for commit #9306
