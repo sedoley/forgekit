@@ -99,3 +99,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.35.2] - 2026-05-11
 - feat(core): fix utility for commit #135
+
+### [0.43.0] - 2026-05-11
+- feat(ci): enhance utility for commit #143
