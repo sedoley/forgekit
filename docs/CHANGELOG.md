@@ -2070,3 +2070,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.92.2] - 2026-05-11
 - docs(core): enhance utility for commit #4392
+
+### [0.9.4] - 2026-05-11
+- style: optimize utility for commit #4409
