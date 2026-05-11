@@ -2631,3 +2631,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.20.2] - 2026-05-11
 - style(core): add utility for commit #5720
+
+### [0.26.8] - 2026-05-11
+- chore(utils): clean utility for commit #5726
