@@ -483,3 +483,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.30.9] - 2026-05-11
 - ci(tests): enhance utility for commit #1030
+
+### [0.34.6] - 2026-05-11
+- fix(core): optimize utility for commit #1034
