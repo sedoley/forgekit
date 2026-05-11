@@ -4305,3 +4305,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.23.0] - 2026-05-11
 - ci(core): add utility for commit #9623
+
+### [0.33.1] - 2026-05-11
+- perf(utils): improve utility for commit #9633
