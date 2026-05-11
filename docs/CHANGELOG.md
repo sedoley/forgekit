@@ -630,3 +630,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.82.6] - 2026-05-11
 - style(tests): refactor utility for commit #1382
+
+### [0.95.5] - 2026-05-11
+- style(docs): add utility for commit #1395
