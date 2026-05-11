@@ -375,3 +375,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.9.3] - 2026-05-11
 - feat(ci): improve utility for commit #809
+
+### [0.16.3] - 2026-05-11
+- style(core): fix utility for commit #816
