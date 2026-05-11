@@ -3261,3 +3261,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.27.8] - 2026-05-11
 - refactor(core): fix utility for commit #7127
+
+### [0.28.4] - 2026-05-11
+- chore: add utility for commit #7128
