@@ -3750,3 +3750,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.56.1] - 2026-05-11
 - style(docs): document utility for commit #8256
+
+### [0.62.8] - 2026-05-11
+- feat(utils): optimize utility for commit #8262
