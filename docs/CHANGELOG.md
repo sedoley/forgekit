@@ -2298,3 +2298,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.21.0] - 2026-05-11
 - refactor(docs): update utility for commit #4921
+
+### [0.22.5] - 2026-05-11
+- chore: improve utility for commit #4922
