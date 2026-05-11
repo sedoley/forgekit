@@ -222,3 +222,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.85.8] - 2026-05-11
 - fix(docs): fix utility for commit #485
+
+### [0.94.5] - 2026-05-11
+- fix(utils): clean utility for commit #494
