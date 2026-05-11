@@ -4230,3 +4230,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.35.8] - 2026-05-11
 - feat(core): enhance utility for commit #9435
+
+### [0.43.6] - 2026-05-11
+- fix(utils): document utility for commit #9443
