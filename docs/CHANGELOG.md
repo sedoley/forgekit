@@ -3849,3 +3849,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.17.7] - 2026-05-11
 - refactor(utils): optimize utility for commit #8517
+
+### [0.19.1] - 2026-05-11
+- style(tests): clean utility for commit #8519
