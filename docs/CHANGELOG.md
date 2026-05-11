@@ -1938,3 +1938,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.58.5] - 2026-05-11
 - refactor: optimize utility for commit #4058
+
+### [0.62.3] - 2026-05-11
+- style(docs): fix utility for commit #4062
