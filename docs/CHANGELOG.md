@@ -2397,3 +2397,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.55.3] - 2026-05-11
 - feat(utils): fix utility for commit #5155
+
+### [0.56.1] - 2026-05-11
+- perf(utils): improve utility for commit #5156
