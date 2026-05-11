@@ -1593,3 +1593,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.95.6] - 2026-05-11
 - feat(ci): update utility for commit #3395
+
+### [0.4.8] - 2026-05-11
+- chore(app): clean utility for commit #3404
