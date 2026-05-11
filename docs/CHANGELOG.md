@@ -522,3 +522,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.2.7] - 2026-05-11
 - style(docs): refactor utility for commit #1102
+
+### [0.4.7] - 2026-05-11
+- ci: enhance utility for commit #1104
