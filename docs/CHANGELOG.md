@@ -1332,3 +1332,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.15.1] - 2026-05-11
 - docs(utils): enhance utility for commit #2815
+
+### [0.33.1] - 2026-05-11
+- fix(utils): fix utility for commit #2833
