@@ -3987,3 +3987,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.20.1] - 2026-05-11
 - ci(tests): enhance utility for commit #8920
+
+### [0.28.0] - 2026-05-11
+- perf(app): fix utility for commit #8928
