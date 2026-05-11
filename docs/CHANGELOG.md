@@ -4155,3 +4155,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.0.4] - 2026-05-11
 - feat(utils): add utility for commit #9300
+
+### [0.5.9] - 2026-05-11
+- docs: improve utility for commit #9305
