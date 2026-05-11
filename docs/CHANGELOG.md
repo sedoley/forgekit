@@ -2223,3 +2223,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.72.7] - 2026-05-11
 - docs(utils): refactor utility for commit #4772
+
+### [0.86.0] - 2026-05-11
+- chore(ci): add utility for commit #4786
