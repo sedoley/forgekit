@@ -264,3 +264,7 @@ def helper_196():
 # Helper added in commit #402
 def helper_2():
     return "real-change-402"
+
+# Helper added in commit #404
+def helper_4():
+    return "real-change-404"
