@@ -21,3 +21,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.14.4] - 2026-05-11
 - chore(core): optimize utility for commit #14
+
+### [0.15.5] - 2026-05-11
+- refactor: refactor utility for commit #15
