@@ -4014,3 +4014,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.93.2] - 2026-05-11
 - style(tests): refactor utility for commit #8993
+
+### [0.96.7] - 2026-05-11
+- test(tests): document utility for commit #8996
