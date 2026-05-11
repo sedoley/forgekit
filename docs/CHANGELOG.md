@@ -300,3 +300,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.80.9] - 2026-05-11
 - chore(ci): enhance utility for commit #680
+
+### [0.82.9] - 2026-05-11
+- refactor(ci): add utility for commit #682
