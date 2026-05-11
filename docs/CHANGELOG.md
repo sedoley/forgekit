@@ -3840,3 +3840,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.96.6] - 2026-05-11
 - feat(ci): optimize utility for commit #8496
+
+### [0.98.4] - 2026-05-11
+- chore(utils): enhance utility for commit #8498
