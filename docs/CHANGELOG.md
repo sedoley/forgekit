@@ -2028,3 +2028,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.15.0] - 2026-05-11
 - ci: refactor utility for commit #4315
+
+### [0.20.6] - 2026-05-11
+- style(ci): optimize utility for commit #4320
