@@ -3630,3 +3630,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.62.8] - 2026-05-11
 - ci(docs): fix utility for commit #7962
+
+### [0.65.2] - 2026-05-11
+- chore(tests): update utility for commit #7965
