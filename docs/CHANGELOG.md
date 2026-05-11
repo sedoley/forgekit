@@ -3318,3 +3318,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.55.7] - 2026-05-11
 - feat: clean utility for commit #7255
+
+### [0.61.3] - 2026-05-11
+- perf(core): optimize utility for commit #7261
