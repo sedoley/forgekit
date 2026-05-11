@@ -924,3 +924,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.6.6] - 2026-05-11
 - style: clean utility for commit #2006
+
+### [0.13.5] - 2026-05-11
+- style(utils): add utility for commit #2013
