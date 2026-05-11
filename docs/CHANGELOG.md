@@ -2670,3 +2670,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.22.4] - 2026-05-11
 - refactor: optimize utility for commit #5822
+
+### [0.24.9] - 2026-05-11
+- fix(utils): improve utility for commit #5824
