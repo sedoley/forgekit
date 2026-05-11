@@ -2796,3 +2796,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.41.5] - 2026-05-11
 - chore(utils): enhance utility for commit #6141
+
+### [0.50.9] - 2026-05-11
+- ci(tests): refactor utility for commit #6150
