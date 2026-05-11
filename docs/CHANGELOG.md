@@ -4245,3 +4245,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.72.5] - 2026-05-11
 - fix(docs): enhance utility for commit #9472
+
+### [0.77.1] - 2026-05-11
+- fix(docs): improve utility for commit #9477
