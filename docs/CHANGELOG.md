@@ -978,3 +978,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.36.8] - 2026-05-11
 - perf(core): clean utility for commit #2136
+
+### [0.37.2] - 2026-05-11
+- docs(docs): add utility for commit #2137
