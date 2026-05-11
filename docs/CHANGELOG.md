@@ -3624,3 +3624,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.54.7] - 2026-05-11
 - style(utils): fix utility for commit #7954
+
+### [0.58.5] - 2026-05-11
+- ci(ci): optimize utility for commit #7958
