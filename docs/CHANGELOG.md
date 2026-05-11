@@ -3945,3 +3945,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.81.0] - 2026-05-11
 - docs(docs): clean utility for commit #8781
+
+### [0.94.6] - 2026-05-11
+- chore(core): improve utility for commit #8794
