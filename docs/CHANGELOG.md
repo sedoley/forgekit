@@ -3753,3 +3753,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.62.8] - 2026-05-11
 - feat(utils): optimize utility for commit #8262
+
+### [0.78.1] - 2026-05-11
+- style(app): clean utility for commit #8278
