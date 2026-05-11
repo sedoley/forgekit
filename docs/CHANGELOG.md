@@ -3348,3 +3348,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.14.3] - 2026-05-11
 - fix(tests): optimize utility for commit #7314
+
+### [0.18.5] - 2026-05-11
+- chore: update utility for commit #7318
