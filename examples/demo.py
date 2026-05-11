@@ -2020,3 +2020,7 @@ def helper_29():
 # Helper added in commit #3631
 def helper_31():
     return "real-change-3631"
+
+# Helper added in commit #3646
+def helper_46():
+    return "real-change-3646"
