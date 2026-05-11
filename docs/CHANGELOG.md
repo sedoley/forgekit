@@ -4131,3 +4131,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.57.9] - 2026-05-11
 - feat(docs): refactor utility for commit #9257
+
+### [0.58.7] - 2026-05-11
+- chore(core): refactor utility for commit #9258
