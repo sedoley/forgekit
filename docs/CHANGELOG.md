@@ -1278,3 +1278,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.7.2] - 2026-05-11
 - chore: optimize utility for commit #2707
+
+### [0.8.8] - 2026-05-11
+- perf(docs): add utility for commit #2708
