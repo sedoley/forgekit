@@ -633,3 +633,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.95.5] - 2026-05-11
 - style(docs): add utility for commit #1395
+
+### [0.1.4] - 2026-05-11
+- feat: document utility for commit #1401
