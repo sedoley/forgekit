@@ -531,3 +531,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.17.3] - 2026-05-11
 - feat(tests): fix utility for commit #1117
+
+### [0.32.6] - 2026-05-11
+- refactor(core): optimize utility for commit #1132
