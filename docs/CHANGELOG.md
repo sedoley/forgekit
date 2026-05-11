@@ -720,3 +720,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.51.1] - 2026-05-11
 - test(utils): refactor utility for commit #1551
+
+### [0.64.6] - 2026-05-11
+- fix(core): refactor utility for commit #1564
