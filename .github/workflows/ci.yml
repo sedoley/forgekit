@@ -139,3 +139,4 @@ jobs:
       - name: Test commit #799
       - name: Test commit #805
       - name: Test commit #821
+      - name: Test commit #823
