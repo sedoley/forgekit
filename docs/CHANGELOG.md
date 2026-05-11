@@ -3618,3 +3618,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.42.5] - 2026-05-11
 - docs(tests): clean utility for commit #7942
+
+### [0.50.2] - 2026-05-11
+- style(tests): refactor utility for commit #7950
