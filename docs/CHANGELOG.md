@@ -1992,3 +1992,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.9.6] - 2026-05-11
 - ci(ci): clean utility for commit #4209
+
+### [0.11.9] - 2026-05-11
+- fix: clean utility for commit #4211
