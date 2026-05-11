@@ -448,3 +448,4 @@ jobs:
       - name: Test commit #3000
       - name: Test commit #3007
       - name: Test commit #3010
+      - name: Test commit #3036
