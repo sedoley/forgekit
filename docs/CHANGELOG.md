@@ -498,3 +498,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.62.4] - 2026-05-11
 - chore: add utility for commit #1062
+
+### [0.64.2] - 2026-05-11
+- style(docs): refactor utility for commit #1064
