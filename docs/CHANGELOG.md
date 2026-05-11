@@ -4314,3 +4314,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.48.6] - 2026-05-11
 - refactor(core): refactor utility for commit #9648
+
+### [0.55.8] - 2026-05-11
+- refactor(ci): document utility for commit #9655
