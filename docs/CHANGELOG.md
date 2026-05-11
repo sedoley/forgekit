@@ -2427,3 +2427,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.12.6] - 2026-05-11
 - docs(core): add utility for commit #5212
+
+### [0.22.5] - 2026-05-11
+- ci(utils): refactor utility for commit #5222
