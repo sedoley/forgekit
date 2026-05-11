@@ -1800,3 +1800,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.0.4] - 2026-05-11
 - fix(core): add utility for commit #3800
+
+### [0.5.9] - 2026-05-11
+- fix(core): refactor utility for commit #3805
