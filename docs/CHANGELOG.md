@@ -1962,3 +1962,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.10.1] - 2026-05-11
 - refactor(core): improve utility for commit #4110
+
+### [0.54.1] - 2026-05-11
+- refactor(tests): clean utility for commit #4154
