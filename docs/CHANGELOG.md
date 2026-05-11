@@ -3051,3 +3051,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.3.6] - 2026-05-11
 - feat(app): add utility for commit #6703
+
+### [0.6.2] - 2026-05-11
+- chore(ci): improve utility for commit #6706
