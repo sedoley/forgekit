@@ -279,3 +279,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.38.9] - 2026-05-11
 - style: update utility for commit #638
+
+### [0.39.9] - 2026-05-11
+- refactor(app): add utility for commit #639
