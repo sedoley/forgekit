@@ -3993,3 +3993,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.30.0] - 2026-05-11
 - style: update utility for commit #8930
+
+### [0.33.9] - 2026-05-11
+- chore: optimize utility for commit #8933
