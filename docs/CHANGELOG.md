@@ -4440,3 +4440,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.94.5] - 2026-05-11
 - docs(docs): optimize utility for commit #9994
+
+### [0.97.5] - 2026-05-11
+- fix(tests): add utility for commit #9997
