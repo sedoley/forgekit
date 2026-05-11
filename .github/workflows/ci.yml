@@ -1402,3 +1402,4 @@ jobs:
       - name: Test commit #9952
       - name: Test commit #9956
       - name: Test commit #9961
+      - name: Test commit #9979
