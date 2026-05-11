@@ -3414,3 +3414,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.70.2] - 2026-05-11
 - chore(app): refactor utility for commit #7470
+
+### [0.74.4] - 2026-05-11
+- style(core): improve utility for commit #7474
