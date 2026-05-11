@@ -4236,3 +4236,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.45.2] - 2026-05-11
 - ci(core): refactor utility for commit #9445
+
+### [0.47.4] - 2026-05-11
+- docs(app): document utility for commit #9447
