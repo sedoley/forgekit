@@ -1668,3 +1668,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.74.7] - 2026-05-11
 - docs(core): fix utility for commit #3574
+
+### [0.77.8] - 2026-05-11
+- ci(utils): add utility for commit #3577
