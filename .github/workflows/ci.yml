@@ -641,3 +641,4 @@ jobs:
       - name: Test commit #4643
       - name: Test commit #4657
       - name: Test commit #4675
+      - name: Test commit #4687
