@@ -21,3 +21,4 @@ jobs:
       - name: Test commit #2
       - name: Test commit #25
       - name: Test commit #28
+      - name: Test commit #41
