@@ -2019,3 +2019,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.90.0] - 2026-05-11
 - ci: enhance utility for commit #4290
+
+### [0.96.5] - 2026-05-11
+- refactor(docs): add utility for commit #4296
