@@ -507,3 +507,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.85.0] - 2026-05-11
 - feat(docs): improve utility for commit #1085
+
+### [0.87.5] - 2026-05-11
+- refactor(core): update utility for commit #1087
