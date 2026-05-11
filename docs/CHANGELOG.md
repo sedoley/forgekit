@@ -3567,3 +3567,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.72.7] - 2026-05-11
 - ci(utils): clean utility for commit #7772
+
+### [0.90.6] - 2026-05-11
+- test: optimize utility for commit #7790
