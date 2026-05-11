@@ -1545,3 +1545,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.16.5] - 2026-05-11
 - feat(tests): add utility for commit #3316
+
+### [0.28.9] - 2026-05-11
+- perf(app): document utility for commit #3328
