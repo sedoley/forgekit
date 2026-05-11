@@ -1125,3 +1125,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.35.2] - 2026-05-11
 - ci(docs): fix utility for commit #2435
+
+### [0.37.5] - 2026-05-11
+- style: improve utility for commit #2437
