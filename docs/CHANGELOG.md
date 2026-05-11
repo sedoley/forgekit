@@ -2679,3 +2679,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.44.2] - 2026-05-11
 - test(core): document utility for commit #5844
+
+### [0.49.6] - 2026-05-11
+- test(core): fix utility for commit #5849
