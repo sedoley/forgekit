@@ -110,3 +110,4 @@ jobs:
       - name: Test commit #605
       - name: Test commit #613
       - name: Test commit #615
+      - name: Test commit #618
