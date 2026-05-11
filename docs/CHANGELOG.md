@@ -129,3 +129,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.12.1] - 2026-05-11
 - feat(core): refactor utility for commit #212
+
+### [0.20.0] - 2026-05-11
+- ci(app): add utility for commit #220
