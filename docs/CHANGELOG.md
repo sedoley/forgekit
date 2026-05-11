@@ -2142,3 +2142,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.51.0] - 2026-05-11
 - test: update utility for commit #4551
+
+### [0.71.1] - 2026-05-11
+- test(ci): refactor utility for commit #4571
