@@ -1251,3 +1251,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.56.0] - 2026-05-11
 - fix(docs): fix utility for commit #2656
+
+### [0.77.6] - 2026-05-11
+- docs(core): update utility for commit #2677
