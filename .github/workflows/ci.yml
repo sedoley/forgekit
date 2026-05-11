@@ -19,3 +19,4 @@ jobs:
       - name: Run tests
         run: python -m pytest tests/ -v
       - name: Test commit #2
+      - name: Test commit #25
