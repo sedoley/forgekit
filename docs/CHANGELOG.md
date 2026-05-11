@@ -441,3 +441,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.31.3] - 2026-05-11
 - ci(ci): enhance utility for commit #931
+
+### [0.38.9] - 2026-05-11
+- style: enhance utility for commit #938
