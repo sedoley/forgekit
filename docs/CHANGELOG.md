@@ -948,3 +948,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.72.0] - 2026-05-11
 - chore(tests): enhance utility for commit #2072
+
+### [0.76.7] - 2026-05-11
+- refactor(app): improve utility for commit #2076
