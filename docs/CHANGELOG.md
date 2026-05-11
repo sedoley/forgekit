@@ -3357,3 +3357,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.39.5] - 2026-05-11
 - test(ci): optimize utility for commit #7339
+
+### [0.48.9] - 2026-05-11
+- feat(docs): add utility for commit #7348
