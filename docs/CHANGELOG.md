@@ -3252,3 +3252,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.3.0] - 2026-05-11
 - test(core): enhance utility for commit #7103
+
+### [0.8.5] - 2026-05-11
+- ci(app): document utility for commit #7108
