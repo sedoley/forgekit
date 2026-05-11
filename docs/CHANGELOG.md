@@ -1032,3 +1032,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.9.4] - 2026-05-11
 - style(core): fix utility for commit #2209
+
+### [0.12.8] - 2026-05-11
+- refactor(tests): clean utility for commit #2212
