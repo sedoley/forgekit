@@ -231,3 +231,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.14.5] - 2026-05-11
 - style: enhance utility for commit #514
+
+### [0.17.5] - 2026-05-11
+- style: optimize utility for commit #517
