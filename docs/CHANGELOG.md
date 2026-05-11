@@ -3438,3 +3438,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.6.4] - 2026-05-11
 - ci(app): enhance utility for commit #7506
+
+### [0.9.3] - 2026-05-11
+- feat(tests): document utility for commit #7509
