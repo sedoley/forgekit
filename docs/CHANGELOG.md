@@ -1038,3 +1038,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.22.9] - 2026-05-11
 - ci(ci): add utility for commit #2222
+
+### [0.24.3] - 2026-05-11
+- fix(docs): enhance utility for commit #2224
