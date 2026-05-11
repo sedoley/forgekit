@@ -4434,3 +4434,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.88.6] - 2026-05-11
 - docs(core): document utility for commit #9988
+
+### [0.91.5] - 2026-05-11
+- perf(tests): document utility for commit #9991
