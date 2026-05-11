@@ -4140,3 +4140,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.74.1] - 2026-05-11
 - refactor(app): add utility for commit #9274
+
+### [0.84.0] - 2026-05-11
+- perf(docs): refactor utility for commit #9284
