@@ -333,3 +333,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.39.2] - 2026-05-11
 - docs(tests): update utility for commit #739
+
+### [0.45.0] - 2026-05-11
+- test(ci): clean utility for commit #745
