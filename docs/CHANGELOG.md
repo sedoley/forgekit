@@ -525,3 +525,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.4.7] - 2026-05-11
 - ci: enhance utility for commit #1104
+
+### [0.7.5] - 2026-05-11
+- fix: add utility for commit #1107
