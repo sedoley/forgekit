@@ -1725,3 +1725,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.93.9] - 2026-05-11
 - chore(app): clean utility for commit #3693
+
+### [0.2.2] - 2026-05-11
+- feat(ci): improve utility for commit #3702
