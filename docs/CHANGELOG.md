@@ -2481,3 +2481,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.28.9] - 2026-05-11
 - style(utils): enhance utility for commit #5328
+
+### [0.33.7] - 2026-05-11
+- ci(utils): update utility for commit #5333
