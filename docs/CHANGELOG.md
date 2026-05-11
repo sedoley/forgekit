@@ -2568,3 +2568,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.15.6] - 2026-05-11
 - test: add utility for commit #5615
+
+### [0.16.7] - 2026-05-11
+- chore(tests): clean utility for commit #5616
