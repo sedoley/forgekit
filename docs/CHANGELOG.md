@@ -732,3 +732,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.13.5] - 2026-05-11
 - style: fix utility for commit #1613
+
+### [0.21.3] - 2026-05-11
+- style(tests): document utility for commit #1621
