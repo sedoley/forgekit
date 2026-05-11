@@ -1179,3 +1179,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.29.4] - 2026-05-11
 - fix(app): optimize utility for commit #2529
+
+### [0.39.9] - 2026-05-11
+- style(tests): fix utility for commit #2539
