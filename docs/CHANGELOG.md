@@ -1431,3 +1431,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.72.7] - 2026-05-11
 - style(core): add utility for commit #3072
+
+### [0.75.7] - 2026-05-11
+- refactor: refactor utility for commit #3075
