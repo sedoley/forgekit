@@ -132,3 +132,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.20.0] - 2026-05-11
 - ci(app): add utility for commit #220
+
+### [0.21.5] - 2026-05-11
+- test(ci): update utility for commit #221
