@@ -3009,3 +3009,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.23.9] - 2026-05-11
 - style(docs): add utility for commit #6623
+
+### [0.27.9] - 2026-05-11
+- chore(docs): fix utility for commit #6627
