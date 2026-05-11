@@ -141,3 +141,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.63.0] - 2026-05-11
 - test(core): optimize utility for commit #263
+
+### [0.65.9] - 2026-05-11
+- refactor(core): clean utility for commit #265
