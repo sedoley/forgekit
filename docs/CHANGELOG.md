@@ -414,3 +414,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.92.9] - 2026-05-11
 - ci(core): fix utility for commit #892
+
+### [0.99.3] - 2026-05-11
+- test(ci): update utility for commit #899
