@@ -2310,3 +2310,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.38.6] - 2026-05-11
 - style(docs): enhance utility for commit #4938
+
+### [0.39.7] - 2026-05-11
+- chore(utils): update utility for commit #4939
