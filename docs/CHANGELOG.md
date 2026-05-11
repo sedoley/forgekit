@@ -2706,3 +2706,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.10.3] - 2026-05-11
 - perf(app): update utility for commit #5910
+
+### [0.26.2] - 2026-05-11
+- fix(ci): improve utility for commit #5926
