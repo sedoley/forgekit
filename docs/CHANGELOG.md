@@ -3963,3 +3963,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.46.0] - 2026-05-11
 - ci(utils): clean utility for commit #8846
+
+### [0.55.0] - 2026-05-11
+- perf(ci): improve utility for commit #8855
