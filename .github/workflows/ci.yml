@@ -939,3 +939,4 @@ jobs:
       - name: Test commit #6770
       - name: Test commit #6774
       - name: Test commit #6775
+      - name: Test commit #6790
