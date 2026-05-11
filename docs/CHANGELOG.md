@@ -285,3 +285,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.40.5] - 2026-05-11
 - fix(app): enhance utility for commit #640
+
+### [0.41.2] - 2026-05-11
+- feat(utils): enhance utility for commit #641
