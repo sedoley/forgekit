@@ -807,3 +807,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.66.4] - 2026-05-11
 - feat: document utility for commit #1766
+
+### [0.77.7] - 2026-05-11
+- docs(app): enhance utility for commit #1777
