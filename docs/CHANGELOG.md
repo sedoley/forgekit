@@ -3888,3 +3888,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.21.0] - 2026-05-11
 - fix(docs): enhance utility for commit #8621
+
+### [0.36.2] - 2026-05-11
+- refactor(core): add utility for commit #8636
