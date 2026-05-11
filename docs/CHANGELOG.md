@@ -4149,3 +4149,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.92.1] - 2026-05-11
 - test(utils): improve utility for commit #9292
+
+### [0.96.9] - 2026-05-11
+- docs(ci): enhance utility for commit #9296
