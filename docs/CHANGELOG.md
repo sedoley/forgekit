@@ -1944,3 +1944,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.65.0] - 2026-05-11
 - chore(ci): add utility for commit #4065
+
+### [0.75.0] - 2026-05-11
+- perf(ci): improve utility for commit #4075
