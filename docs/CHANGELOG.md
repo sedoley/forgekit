@@ -1602,3 +1602,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.25.0] - 2026-05-11
 - docs(app): improve utility for commit #3425
+
+### [0.31.3] - 2026-05-11
+- perf(utils): clean utility for commit #3431
