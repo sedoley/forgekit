@@ -3288,3 +3288,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.0.3] - 2026-05-11
 - fix(core): add utility for commit #7200
+
+### [0.1.5] - 2026-05-11
+- fix(ci): document utility for commit #7201
