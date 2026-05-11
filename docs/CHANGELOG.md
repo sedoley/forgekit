@@ -1863,3 +1863,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.39.1] - 2026-05-11
 - feat: refactor utility for commit #3939
+
+### [0.40.4] - 2026-05-11
+- test(app): enhance utility for commit #3940
