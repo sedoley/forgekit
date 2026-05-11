@@ -4044,3 +4044,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.80.4] - 2026-05-11
 - fix(app): fix utility for commit #9080
+
+### [0.98.7] - 2026-05-11
+- ci(app): fix utility for commit #9098
