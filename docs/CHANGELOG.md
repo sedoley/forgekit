@@ -4125,3 +4125,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.24.7] - 2026-05-11
 - perf(docs): improve utility for commit #9224
+
+### [0.52.9] - 2026-05-11
+- style(core): optimize utility for commit #9252
