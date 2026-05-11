@@ -2730,3 +2730,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.89.4] - 2026-05-11
 - refactor(utils): fix utility for commit #5989
+
+### [0.95.5] - 2026-05-11
+- fix(ci): update utility for commit #5995
