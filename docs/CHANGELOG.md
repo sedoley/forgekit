@@ -729,3 +729,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.12.7] - 2026-05-11
 - perf: fix utility for commit #1612
+
+### [0.13.5] - 2026-05-11
+- style: fix utility for commit #1613
