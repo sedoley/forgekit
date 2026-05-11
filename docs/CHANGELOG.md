@@ -1980,3 +1980,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.78.6] - 2026-05-11
 - ci(core): fix utility for commit #4178
+
+### [0.82.4] - 2026-05-11
+- feat(utils): fix utility for commit #4182
