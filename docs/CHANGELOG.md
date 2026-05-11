@@ -4386,3 +4386,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.79.3] - 2026-05-11
 - ci: document utility for commit #9879
+
+### [0.91.2] - 2026-05-11
+- perf(app): document utility for commit #9891
