@@ -1200,3 +1200,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.64.7] - 2026-05-11
 - chore(app): document utility for commit #2564
+
+### [0.68.8] - 2026-05-11
+- test(utils): clean utility for commit #2568
