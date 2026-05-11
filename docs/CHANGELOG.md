@@ -1110,3 +1110,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.90.0] - 2026-05-11
 - refactor(ci): optimize utility for commit #2390
+
+### [0.92.9] - 2026-05-11
+- docs(utils): clean utility for commit #2392
