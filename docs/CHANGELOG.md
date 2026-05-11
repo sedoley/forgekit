@@ -4020,3 +4020,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.0.6] - 2026-05-11
 - docs(app): add utility for commit #9000
+
+### [0.2.2] - 2026-05-11
+- style(tests): optimize utility for commit #9002
