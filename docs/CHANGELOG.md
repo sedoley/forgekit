@@ -1902,3 +1902,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.4.2] - 2026-05-11
 - docs(tests): enhance utility for commit #4004
+
+### [0.11.0] - 2026-05-11
+- docs: improve utility for commit #4011
