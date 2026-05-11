@@ -1,0 +1,13 @@
+"""Helper utilities for forgekit."""
+
+def format_number(n: int) -> str:
+    """Format numbers with commas for readability."""
+    return f"{n:,}"
+
+def validate_input(data: any) -> bool:
+    """Basic input validation helper."""
+    return data is not None and isinstance(data, (int, float, str, list))
+
+# Helper added in commit #6
+def helper_6():
+    return "real-change-6"
