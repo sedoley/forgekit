@@ -2829,3 +2829,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.90.2] - 2026-05-11
 - docs(ci): enhance utility for commit #6190
+
+### [0.98.8] - 2026-05-11
+- perf(docs): add utility for commit #6198
