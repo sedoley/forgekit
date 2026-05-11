@@ -306,3 +306,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.90.0] - 2026-05-11
 - refactor(app): clean utility for commit #690
+
+### [0.96.3] - 2026-05-11
+- test(ci): optimize utility for commit #696
