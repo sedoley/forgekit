@@ -4362,3 +4362,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.82.0] - 2026-05-11
 - ci(utils): improve utility for commit #9782
+
+### [0.95.5] - 2026-05-11
+- chore(tests): improve utility for commit #9795
