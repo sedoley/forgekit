@@ -2577,3 +2577,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.22.8] - 2026-05-11
 - docs(utils): refactor utility for commit #5622
+
+### [0.36.4] - 2026-05-11
+- perf(docs): improve utility for commit #5636
