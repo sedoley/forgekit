@@ -756,3 +756,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.43.4] - 2026-05-11
 - refactor(docs): update utility for commit #1643
+
+### [0.44.1] - 2026-05-11
+- fix(app): fix utility for commit #1644
