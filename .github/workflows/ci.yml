@@ -770,3 +770,4 @@ jobs:
       - name: Test commit #5525
       - name: Test commit #5526
       - name: Test commit #5529
+      - name: Test commit #5531
