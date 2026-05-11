@@ -2523,3 +2523,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.98.4] - 2026-05-11
 - chore(core): add utility for commit #5498
+
+### [0.12.0] - 2026-05-11
+- refactor(app): improve utility for commit #5512
