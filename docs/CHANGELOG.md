@@ -1818,3 +1818,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.29.4] - 2026-05-11
 - fix(utils): clean utility for commit #3829
+
+### [0.39.8] - 2026-05-11
+- chore(app): add utility for commit #3839
