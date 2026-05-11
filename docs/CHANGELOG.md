@@ -1053,3 +1053,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.46.5] - 2026-05-11
 - feat(ci): improve utility for commit #2246
+
+### [0.51.3] - 2026-05-11
+- ci(core): refactor utility for commit #2251
