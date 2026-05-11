@@ -717,3 +717,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.42.7] - 2026-05-11
 - docs(tests): add utility for commit #1542
+
+### [0.51.1] - 2026-05-11
+- test(utils): refactor utility for commit #1551
