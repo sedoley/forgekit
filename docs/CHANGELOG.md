@@ -738,3 +738,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.25.0] - 2026-05-11
 - refactor(ci): enhance utility for commit #1625
+
+### [0.28.5] - 2026-05-11
+- docs(docs): document utility for commit #1628
