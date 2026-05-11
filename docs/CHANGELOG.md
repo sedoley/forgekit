@@ -48,3 +48,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.45.2] - 2026-05-11
 - perf(core): fix utility for commit #45
+
+### [0.46.7] - 2026-05-11
+- refactor(core): enhance utility for commit #46
