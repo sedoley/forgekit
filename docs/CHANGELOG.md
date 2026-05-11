@@ -2820,3 +2820,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.83.2] - 2026-05-11
 - perf(tests): refactor utility for commit #6183
+
+### [0.85.2] - 2026-05-11
+- perf(tests): add utility for commit #6185
