@@ -1905,3 +1905,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.11.0] - 2026-05-11
 - docs: improve utility for commit #4011
+
+### [0.20.0] - 2026-05-11
+- fix(ci): add utility for commit #4020
