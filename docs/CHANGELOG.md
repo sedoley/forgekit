@@ -2445,3 +2445,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.55.6] - 2026-05-11
 - ci(app): enhance utility for commit #5255
+
+### [0.59.5] - 2026-05-11
+- docs: refactor utility for commit #5259
