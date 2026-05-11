@@ -2274,3 +2274,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.89.9] - 2026-05-11
 - test(core): improve utility for commit #4889
+
+### [0.92.9] - 2026-05-11
+- refactor(docs): enhance utility for commit #4892
