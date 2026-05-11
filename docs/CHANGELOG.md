@@ -3798,3 +3798,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.94.9] - 2026-05-11
 - chore(tests): clean utility for commit #8394
+
+### [0.5.6] - 2026-05-11
+- chore(ci): update utility for commit #8405
