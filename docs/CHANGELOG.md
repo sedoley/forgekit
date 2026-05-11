@@ -1158,3 +1158,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.7.4] - 2026-05-11
 - feat(docs): fix utility for commit #2507
+
+### [0.9.5] - 2026-05-11
+- docs(utils): update utility for commit #2509
