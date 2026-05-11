@@ -2229,3 +2229,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.90.1] - 2026-05-11
 - style: update utility for commit #4790
+
+### [0.98.4] - 2026-05-11
+- test(tests): clean utility for commit #4798
