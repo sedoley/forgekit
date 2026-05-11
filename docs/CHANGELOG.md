@@ -4332,3 +4332,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.4.8] - 2026-05-11
 - chore(utils): update utility for commit #9704
+
+### [0.5.7] - 2026-05-11
+- perf(core): improve utility for commit #9705
