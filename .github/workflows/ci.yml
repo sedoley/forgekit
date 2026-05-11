@@ -49,3 +49,4 @@ jobs:
       - name: Test commit #209
       - name: Test commit #217
       - name: Test commit #228
+      - name: Test commit #230
