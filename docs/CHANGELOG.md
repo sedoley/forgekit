@@ -2841,3 +2841,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.16.5] - 2026-05-11
 - fix(tests): clean utility for commit #6216
+
+### [0.31.5] - 2026-05-11
+- style(tests): enhance utility for commit #6231
