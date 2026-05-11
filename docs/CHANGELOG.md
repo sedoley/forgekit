@@ -1476,3 +1476,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.66.1] - 2026-05-11
 - docs(core): optimize utility for commit #3166
+
+### [0.71.9] - 2026-05-11
+- perf(ci): document utility for commit #3171
