@@ -3255,3 +3255,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.8.5] - 2026-05-11
 - ci(app): document utility for commit #7108
+
+### [0.24.3] - 2026-05-11
+- fix(ci): improve utility for commit #7124
