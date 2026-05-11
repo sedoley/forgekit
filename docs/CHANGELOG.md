@@ -2334,3 +2334,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.77.4] - 2026-05-11
 - fix(ci): clean utility for commit #4977
+
+### [0.81.5] - 2026-05-11
+- style(tests): add utility for commit #4981
