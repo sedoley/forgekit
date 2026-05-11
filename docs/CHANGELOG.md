@@ -3942,3 +3942,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.78.1] - 2026-05-11
 - style(app): update utility for commit #8778
+
+### [0.81.0] - 2026-05-11
+- docs(docs): clean utility for commit #8781
