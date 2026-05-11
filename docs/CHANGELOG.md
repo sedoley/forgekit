@@ -2394,3 +2394,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.54.3] - 2026-05-11
 - test(core): clean utility for commit #5154
+
+### [0.55.3] - 2026-05-11
+- feat(utils): fix utility for commit #5155
