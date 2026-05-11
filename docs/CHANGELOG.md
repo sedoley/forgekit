@@ -420,3 +420,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.1.6] - 2026-05-11
 - refactor(utils): refactor utility for commit #901
+
+### [0.4.3] - 2026-05-11
+- fix(ci): enhance utility for commit #904
