@@ -402,3 +402,4 @@ jobs:
       - name: Test commit #2654
       - name: Test commit #2655
       - name: Test commit #2658
+      - name: Test commit #2661
