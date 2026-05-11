@@ -3738,3 +3738,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.8.8] - 2026-05-11
 - feat(app): optimize utility for commit #8208
+
+### [0.24.1] - 2026-05-11
+- ci: document utility for commit #8224
