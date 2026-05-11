@@ -3651,3 +3651,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.6.0] - 2026-05-11
 - perf(core): add utility for commit #8006
+
+### [0.11.5] - 2026-05-11
+- perf: refactor utility for commit #8011
