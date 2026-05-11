@@ -3810,3 +3810,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.14.1] - 2026-05-11
 - refactor(app): improve utility for commit #8414
+
+### [0.19.1] - 2026-05-11
+- docs(utils): fix utility for commit #8419
