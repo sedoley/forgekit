@@ -366,3 +366,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.85.3] - 2026-05-11
 - feat(app): document utility for commit #785
+
+### [0.89.1] - 2026-05-11
+- style(core): refactor utility for commit #789
