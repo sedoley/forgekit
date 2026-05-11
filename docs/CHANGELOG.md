@@ -2958,3 +2958,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.29.5] - 2026-05-11
 - perf(core): document utility for commit #6529
+
+### [0.39.0] - 2026-05-11
+- perf(app): document utility for commit #6539
