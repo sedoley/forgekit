@@ -3243,3 +3243,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.95.4] - 2026-05-11
 - feat(utils): refactor utility for commit #7095
+
+### [0.97.5] - 2026-05-11
+- chore(ci): refactor utility for commit #7097
