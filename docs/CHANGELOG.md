@@ -3693,3 +3693,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.1.9] - 2026-05-11
 - perf(core): update utility for commit #8101
+
+### [0.10.8] - 2026-05-11
+- refactor(docs): update utility for commit #8110
