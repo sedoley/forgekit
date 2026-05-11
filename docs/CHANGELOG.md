@@ -939,3 +939,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.40.1] - 2026-05-11
 - perf: add utility for commit #2040
+
+### [0.49.1] - 2026-05-11
+- chore(utils): improve utility for commit #2049
