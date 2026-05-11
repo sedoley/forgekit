@@ -3666,3 +3666,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.40.4] - 2026-05-11
 - feat(tests): fix utility for commit #8040
+
+### [0.43.4] - 2026-05-11
+- docs(docs): update utility for commit #8043
