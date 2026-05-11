@@ -3456,3 +3456,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.31.1] - 2026-05-11
 - ci(core): optimize utility for commit #7531
+
+### [0.34.1] - 2026-05-11
+- test(tests): document utility for commit #7534
