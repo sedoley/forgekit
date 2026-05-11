@@ -1287,3 +1287,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.15.4] - 2026-05-11
 - refactor(core): optimize utility for commit #2715
+
+### [0.23.4] - 2026-05-11
+- perf(core): refactor utility for commit #2723
