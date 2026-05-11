@@ -4302,3 +4302,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.21.5] - 2026-05-11
 - fix(utils): fix utility for commit #9621
+
+### [0.23.0] - 2026-05-11
+- ci(core): add utility for commit #9623
