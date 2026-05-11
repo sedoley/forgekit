@@ -840,3 +840,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.40.4] - 2026-05-11
 - fix(utils): clean utility for commit #1840
+
+### [0.41.8] - 2026-05-11
+- feat(app): update utility for commit #1841
