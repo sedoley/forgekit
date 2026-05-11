@@ -1236,3 +1236,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.22.1] - 2026-05-11
 - ci(ci): add utility for commit #2622
+
+### [0.26.0] - 2026-05-11
+- ci(docs): fix utility for commit #2626
