@@ -159,3 +159,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.99.4] - 2026-05-11
 - ci: improve utility for commit #299
+
+### [0.9.7] - 2026-05-11
+- perf(core): improve utility for commit #309
