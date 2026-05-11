@@ -4011,3 +4011,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.80.9] - 2026-05-11
 - feat(tests): fix utility for commit #8980
+
+### [0.93.2] - 2026-05-11
+- style(tests): refactor utility for commit #8993
