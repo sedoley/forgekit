@@ -2322,3 +2322,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.52.2] - 2026-05-11
 - feat(core): clean utility for commit #4952
+
+### [0.55.9] - 2026-05-11
+- ci(docs): improve utility for commit #4955
