@@ -2772,3 +2772,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.71.2] - 2026-05-11
 - refactor(tests): optimize utility for commit #6071
+
+### [0.75.9] - 2026-05-11
+- feat(ci): enhance utility for commit #6075
