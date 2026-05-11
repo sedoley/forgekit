@@ -1245,3 +1245,4 @@ jobs:
       - name: Test commit #8759
       - name: Test commit #8769
       - name: Test commit #8771
+      - name: Test commit #8774
