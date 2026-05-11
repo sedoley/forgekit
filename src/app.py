@@ -401,3 +401,7 @@ def helper_123():
 # Helper added in commit #724
 def helper_124():
     return "real-change-724"
+
+# Helper added in commit #730
+def helper_130():
+    return "real-change-730"
