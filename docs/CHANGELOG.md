@@ -492,3 +492,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.38.5] - 2026-05-11
 - fix(tests): clean utility for commit #1038
+
+### [0.58.9] - 2026-05-11
+- test(utils): fix utility for commit #1058
