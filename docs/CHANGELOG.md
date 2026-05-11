@@ -2178,3 +2178,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.68.6] - 2026-05-11
 - ci(utils): enhance utility for commit #4668
+
+### [0.73.6] - 2026-05-11
+- fix(core): enhance utility for commit #4673
