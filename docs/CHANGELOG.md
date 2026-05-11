@@ -642,3 +642,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.8.8] - 2026-05-11
 - ci: fix utility for commit #1408
+
+### [0.16.7] - 2026-05-11
+- style(ci): document utility for commit #1416
