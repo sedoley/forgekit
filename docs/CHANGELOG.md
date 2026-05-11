@@ -1941,3 +1941,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.62.3] - 2026-05-11
 - style(docs): fix utility for commit #4062
+
+### [0.65.0] - 2026-05-11
+- chore(ci): add utility for commit #4065
