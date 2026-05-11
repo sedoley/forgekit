@@ -3087,3 +3087,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.73.7] - 2026-05-11
 - chore(docs): fix utility for commit #6773
+
+### [0.82.7] - 2026-05-11
+- refactor: update utility for commit #6782
