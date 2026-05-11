@@ -195,3 +195,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.20.9] - 2026-05-11
 - test(docs): add utility for commit #420
+
+### [0.29.7] - 2026-05-11
+- docs(app): clean utility for commit #429
