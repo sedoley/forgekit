@@ -2640,3 +2640,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.68.3] - 2026-05-11
 - chore(utils): optimize utility for commit #5768
+
+### [0.78.1] - 2026-05-11
+- fix(tests): clean utility for commit #5778
