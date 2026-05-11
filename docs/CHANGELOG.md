@@ -4215,3 +4215,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.99.7] - 2026-05-11
 - ci(utils): add utility for commit #9399
+
+### [0.16.9] - 2026-05-11
+- fix(app): fix utility for commit #9416
