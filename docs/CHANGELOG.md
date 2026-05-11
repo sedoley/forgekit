@@ -1488,3 +1488,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.91.9] - 2026-05-11
 - fix(ci): clean utility for commit #3191
+
+### [0.92.3] - 2026-05-11
+- test(docs): fix utility for commit #3192
