@@ -3684,3 +3684,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.77.2] - 2026-05-11
 - chore(ci): fix utility for commit #8077
+
+### [0.78.2] - 2026-05-11
+- docs(utils): add utility for commit #8078
