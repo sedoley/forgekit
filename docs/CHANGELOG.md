@@ -2343,3 +2343,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.91.8] - 2026-05-11
 - test(app): fix utility for commit #4991
+
+### [0.93.7] - 2026-05-11
+- chore: document utility for commit #4993
