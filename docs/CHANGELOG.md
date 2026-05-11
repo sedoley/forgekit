@@ -225,3 +225,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.94.5] - 2026-05-11
 - fix(utils): clean utility for commit #494
+
+### [0.9.4] - 2026-05-11
+- feat: optimize utility for commit #509
