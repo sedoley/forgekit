@@ -2808,3 +2808,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.63.4] - 2026-05-11
 - feat(docs): update utility for commit #6163
+
+### [0.73.5] - 2026-05-11
+- feat(docs): optimize utility for commit #6173
