@@ -3366,3 +3366,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.58.2] - 2026-05-11
 - feat: improve utility for commit #7358
+
+### [0.65.6] - 2026-05-11
+- docs: improve utility for commit #7365
