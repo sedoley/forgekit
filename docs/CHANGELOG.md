@@ -2946,3 +2946,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.3.0] - 2026-05-11
 - chore(core): clean utility for commit #6503
+
+### [0.7.7] - 2026-05-11
+- perf(core): clean utility for commit #6507
