@@ -3660,3 +3660,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.28.6] - 2026-05-11
 - perf(utils): document utility for commit #8028
+
+### [0.33.2] - 2026-05-11
+- chore(utils): improve utility for commit #8033
