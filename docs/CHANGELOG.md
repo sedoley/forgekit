@@ -2283,3 +2283,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.0.1] - 2026-05-11
 - ci(core): clean utility for commit #4900
+
+### [0.3.8] - 2026-05-11
+- ci(app): improve utility for commit #4903
