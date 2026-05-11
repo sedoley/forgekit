@@ -84,3 +84,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.13.8] - 2026-05-11
 - fix(core): document utility for commit #113
+
+### [0.16.6] - 2026-05-11
+- test: add utility for commit #116
