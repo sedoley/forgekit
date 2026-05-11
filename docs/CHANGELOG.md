@@ -612,3 +612,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.33.5] - 2026-05-11
 - docs(docs): add utility for commit #1333
+
+### [0.37.3] - 2026-05-11
+- perf(docs): add utility for commit #1337
