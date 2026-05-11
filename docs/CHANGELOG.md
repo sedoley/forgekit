@@ -3930,3 +3930,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.45.4] - 2026-05-11
 - chore(docs): improve utility for commit #8745
+
+### [0.46.0] - 2026-05-11
+- style(core): document utility for commit #8746
