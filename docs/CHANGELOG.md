@@ -1710,3 +1710,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.56.1] - 2026-05-11
 - chore: update utility for commit #3656
+
+### [0.57.4] - 2026-05-11
+- feat(utils): clean utility for commit #3657
