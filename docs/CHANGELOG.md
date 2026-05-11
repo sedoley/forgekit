@@ -390,3 +390,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.66.5] - 2026-05-11
 - refactor(utils): refactor utility for commit #866
+
+### [0.67.3] - 2026-05-11
+- test(utils): update utility for commit #867
