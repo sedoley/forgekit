@@ -1998,3 +1998,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.32.0] - 2026-05-11
 - refactor(core): improve utility for commit #4232
+
+### [0.44.3] - 2026-05-11
+- test(tests): optimize utility for commit #4244
