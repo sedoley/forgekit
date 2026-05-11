@@ -39,3 +39,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.37.5] - 2026-05-11
 - test(docs): fix utility for commit #37
+
+### [0.38.6] - 2026-05-11
+- ci(docs): optimize utility for commit #38
