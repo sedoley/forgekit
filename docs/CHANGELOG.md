@@ -18,3 +18,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.13.0] - 2026-05-11
 - ci(tests): add utility for commit #13
+
+### [0.14.4] - 2026-05-11
+- chore(core): optimize utility for commit #14
