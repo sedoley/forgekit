@@ -1689,3 +1689,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.11.7] - 2026-05-11
 - perf(ci): add utility for commit #3611
+
+### [0.17.4] - 2026-05-11
+- perf(core): add utility for commit #3617
