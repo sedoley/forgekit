@@ -1119,3 +1119,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.11.1] - 2026-05-11
 - refactor(docs): enhance utility for commit #2411
+
+### [0.33.0] - 2026-05-11
+- perf(utils): optimize utility for commit #2433
