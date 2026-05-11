@@ -1515,3 +1515,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.48.9] - 2026-05-11
 - refactor: add utility for commit #3248
+
+### [0.49.0] - 2026-05-11
+- perf: clean utility for commit #3249
