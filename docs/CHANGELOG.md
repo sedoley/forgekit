@@ -1797,3 +1797,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.97.4] - 2026-05-11
 - fix(core): improve utility for commit #3797
+
+### [0.0.4] - 2026-05-11
+- fix(core): add utility for commit #3800
