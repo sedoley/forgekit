@@ -1989,3 +1989,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.8.6] - 2026-05-11
 - ci(app): refactor utility for commit #4208
+
+### [0.9.6] - 2026-05-11
+- ci(ci): clean utility for commit #4209
