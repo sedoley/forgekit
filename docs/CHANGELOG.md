@@ -837,3 +837,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.31.8] - 2026-05-11
 - test(core): enhance utility for commit #1831
+
+### [0.40.4] - 2026-05-11
+- fix(utils): clean utility for commit #1840
