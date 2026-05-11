@@ -3021,3 +3021,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.40.3] - 2026-05-11
 - fix(docs): clean utility for commit #6640
+
+### [0.41.2] - 2026-05-11
+- perf(ci): fix utility for commit #6641
