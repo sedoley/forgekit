@@ -2736,3 +2736,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.98.8] - 2026-05-11
 - fix(ci): update utility for commit #5998
+
+### [0.99.0] - 2026-05-11
+- test(utils): optimize utility for commit #5999
