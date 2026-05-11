@@ -2256,3 +2256,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.52.5] - 2026-05-11
 - ci(docs): document utility for commit #4852
+
+### [0.53.8] - 2026-05-11
+- test(utils): enhance utility for commit #4853
