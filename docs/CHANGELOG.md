@@ -2436,3 +2436,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.24.4] - 2026-05-11
 - refactor(ci): clean utility for commit #5224
+
+### [0.28.1] - 2026-05-11
+- chore(tests): add utility for commit #5228
