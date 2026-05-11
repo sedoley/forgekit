@@ -3948,3 +3948,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.94.6] - 2026-05-11
 - chore(core): improve utility for commit #8794
+
+### [0.98.7] - 2026-05-11
+- fix: fix utility for commit #8798
