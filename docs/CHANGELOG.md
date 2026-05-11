@@ -2733,3 +2733,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.95.5] - 2026-05-11
 - fix(ci): update utility for commit #5995
+
+### [0.98.8] - 2026-05-11
+- fix(ci): update utility for commit #5998
