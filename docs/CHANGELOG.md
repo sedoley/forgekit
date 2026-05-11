@@ -1500,3 +1500,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.14.9] - 2026-05-11
 - test(app): refactor utility for commit #3214
+
+### [0.16.7] - 2026-05-11
+- refactor(utils): fix utility for commit #3216
