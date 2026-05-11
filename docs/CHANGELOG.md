@@ -168,3 +168,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.28.7] - 2026-05-11
 - fix(app): add utility for commit #328
+
+### [0.34.2] - 2026-05-11
+- test(utils): fix utility for commit #334
