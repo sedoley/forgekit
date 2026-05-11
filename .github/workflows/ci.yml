@@ -1219,3 +1219,4 @@ jobs:
       - name: Test commit #8569
       - name: Test commit #8578
       - name: Test commit #8583
+      - name: Test commit #8586
