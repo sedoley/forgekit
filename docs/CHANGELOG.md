@@ -2004,3 +2004,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.50.8] - 2026-05-11
 - feat(tests): document utility for commit #4250
+
+### [0.53.3] - 2026-05-11
+- feat(core): refactor utility for commit #4253
