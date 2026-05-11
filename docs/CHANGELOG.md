@@ -3180,3 +3180,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.86.7] - 2026-05-11
 - feat(ci): improve utility for commit #6986
+
+### [0.88.2] - 2026-05-11
+- perf: clean utility for commit #6988
