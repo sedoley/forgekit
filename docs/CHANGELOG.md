@@ -363,3 +363,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.71.8] - 2026-05-11
 - refactor(utils): document utility for commit #771
+
+### [0.85.3] - 2026-05-11
+- feat(app): document utility for commit #785
