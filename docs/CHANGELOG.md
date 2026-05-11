@@ -4023,3 +4023,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.2.2] - 2026-05-11
 - style(tests): optimize utility for commit #9002
+
+### [0.20.3] - 2026-05-11
+- perf(docs): add utility for commit #9020
