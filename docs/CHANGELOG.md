@@ -2700,3 +2700,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.90.0] - 2026-05-11
 - perf(utils): add utility for commit #5890
+
+### [0.94.9] - 2026-05-11
+- refactor(ci): clean utility for commit #5894
