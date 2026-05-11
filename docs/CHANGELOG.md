@@ -3681,3 +3681,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.75.4] - 2026-05-11
 - feat(core): update utility for commit #8075
+
+### [0.77.2] - 2026-05-11
+- chore(ci): fix utility for commit #8077
