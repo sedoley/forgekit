@@ -1299,3 +1299,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.47.2] - 2026-05-11
 - test(app): clean utility for commit #2747
+
+### [0.50.1] - 2026-05-11
+- perf(utils): improve utility for commit #2750
