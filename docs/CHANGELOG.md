@@ -4218,3 +4218,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.16.9] - 2026-05-11
 - fix(app): fix utility for commit #9416
+
+### [0.25.6] - 2026-05-11
+- style(ci): add utility for commit #9425
