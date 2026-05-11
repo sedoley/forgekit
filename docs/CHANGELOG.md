@@ -3690,3 +3690,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.88.6] - 2026-05-11
 - docs(core): improve utility for commit #8088
+
+### [0.1.9] - 2026-05-11
+- perf(core): update utility for commit #8101
