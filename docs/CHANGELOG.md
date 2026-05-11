@@ -96,3 +96,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.29.9] - 2026-05-11
 - ci(core): optimize utility for commit #129
+
+### [0.35.2] - 2026-05-11
+- feat(core): fix utility for commit #135
