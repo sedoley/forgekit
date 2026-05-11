@@ -1713,3 +1713,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.57.4] - 2026-05-11
 - feat(utils): clean utility for commit #3657
+
+### [0.60.4] - 2026-05-11
+- refactor: refactor utility for commit #3660
