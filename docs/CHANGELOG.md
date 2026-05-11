@@ -1293,3 +1293,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.25.0] - 2026-05-11
 - ci(tests): fix utility for commit #2725
+
+### [0.38.2] - 2026-05-11
+- docs(docs): document utility for commit #2738
