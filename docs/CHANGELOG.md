@@ -2424,3 +2424,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.4.1] - 2026-05-11
 - test: update utility for commit #5204
+
+### [0.12.6] - 2026-05-11
+- docs(core): add utility for commit #5212
