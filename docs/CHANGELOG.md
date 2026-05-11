@@ -2781,3 +2781,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.89.3] - 2026-05-11
 - fix: improve utility for commit #6089
+
+### [0.96.6] - 2026-05-11
+- feat(ci): add utility for commit #6096
