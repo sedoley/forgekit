@@ -2868,3 +2868,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.90.9] - 2026-05-11
 - docs(app): clean utility for commit #6290
+
+### [0.91.8] - 2026-05-11
+- refactor(utils): fix utility for commit #6291
