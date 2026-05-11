@@ -3138,3 +3138,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.78.9] - 2026-05-11
 - test(tests): enhance utility for commit #6878
+
+### [0.85.0] - 2026-05-11
+- chore(app): document utility for commit #6885
