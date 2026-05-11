@@ -93,3 +93,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.27.4] - 2026-05-11
 - style: document utility for commit #127
+
+### [0.29.9] - 2026-05-11
+- ci(core): optimize utility for commit #129
