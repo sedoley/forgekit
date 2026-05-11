@@ -990,3 +990,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.42.3] - 2026-05-11
 - fix(utils): clean utility for commit #2142
+
+### [0.47.4] - 2026-05-11
+- docs(docs): refactor utility for commit #2147
