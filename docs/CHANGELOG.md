@@ -33,3 +33,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.26.3] - 2026-05-11
 - docs(tests): update utility for commit #26
+
+### [0.33.6] - 2026-05-11
+- perf(ci): document utility for commit #33
