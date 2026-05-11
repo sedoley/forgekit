@@ -2898,3 +2898,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.81.6] - 2026-05-11
 - style(app): add utility for commit #6381
+
+### [0.89.9] - 2026-05-11
+- perf(app): clean utility for commit #6389
