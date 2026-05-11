@@ -3324,3 +3324,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.66.9] - 2026-05-11
 - test(tests): add utility for commit #7266
+
+### [0.68.6] - 2026-05-11
+- style(ci): add utility for commit #7268
