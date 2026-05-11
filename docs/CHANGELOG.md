@@ -2061,3 +2061,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.78.1] - 2026-05-11
 - chore(docs): add utility for commit #4378
+
+### [0.79.7] - 2026-05-11
+- style(docs): document utility for commit #4379
