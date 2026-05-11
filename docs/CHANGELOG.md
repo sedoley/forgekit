@@ -1131,3 +1131,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.40.7] - 2026-05-11
 - ci(utils): clean utility for commit #2440
+
+### [0.41.8] - 2026-05-11
+- style(app): refactor utility for commit #2441
