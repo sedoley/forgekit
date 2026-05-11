@@ -888,3 +888,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.25.1] - 2026-05-11
 - docs: fix utility for commit #1925
+
+### [0.30.3] - 2026-05-11
+- perf(docs): add utility for commit #1930
