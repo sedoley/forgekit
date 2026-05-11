@@ -567,3 +567,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.94.7] - 2026-05-11
 - style(tests): refactor utility for commit #1194
+
+### [0.96.4] - 2026-05-11
+- chore: enhance utility for commit #1196
