@@ -438,3 +438,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.26.7] - 2026-05-11
 - refactor(core): enhance utility for commit #926
+
+### [0.31.3] - 2026-05-11
+- ci(ci): enhance utility for commit #931
