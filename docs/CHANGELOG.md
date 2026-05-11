@@ -468,3 +468,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.83.7] - 2026-05-11
 - docs(app): enhance utility for commit #983
+
+### [0.97.3] - 2026-05-11
+- fix(docs): fix utility for commit #997
