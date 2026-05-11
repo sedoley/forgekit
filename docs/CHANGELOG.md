@@ -987,3 +987,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.41.3] - 2026-05-11
 - docs(app): enhance utility for commit #2141
+
+### [0.42.3] - 2026-05-11
+- fix(utils): clean utility for commit #2142
