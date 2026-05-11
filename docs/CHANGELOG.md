@@ -675,3 +675,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.71.0] - 2026-05-11
 - feat(utils): enhance utility for commit #1471
+
+### [0.72.7] - 2026-05-11
+- perf(app): clean utility for commit #1472
