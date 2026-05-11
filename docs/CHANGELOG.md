@@ -2472,3 +2472,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.12.6] - 2026-05-11
 - ci(utils): optimize utility for commit #5312
+
+### [0.13.8] - 2026-05-11
+- refactor(core): update utility for commit #5313
