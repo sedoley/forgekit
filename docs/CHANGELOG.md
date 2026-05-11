@@ -1518,3 +1518,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.49.0] - 2026-05-11
 - perf: clean utility for commit #3249
+
+### [0.54.1] - 2026-05-11
+- ci(core): clean utility for commit #3254
