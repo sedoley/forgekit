@@ -2127,3 +2127,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.31.7] - 2026-05-11
 - fix(tests): document utility for commit #4531
+
+### [0.37.7] - 2026-05-11
+- chore(core): enhance utility for commit #4537
