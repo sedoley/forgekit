@@ -930,3 +930,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.27.8] - 2026-05-11
 - perf(app): clean utility for commit #2027
+
+### [0.34.3] - 2026-05-11
+- feat(docs): fix utility for commit #2034
