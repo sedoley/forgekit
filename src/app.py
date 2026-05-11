@@ -2013,3 +2013,7 @@ def helper_117():
 # Helper added in commit #3319
 def helper_119():
     return "real-change-3319"
+
+# Helper added in commit #3322
+def helper_122():
+    return "real-change-3322"
