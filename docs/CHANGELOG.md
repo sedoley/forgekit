@@ -996,3 +996,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.50.1] - 2026-05-11
 - chore(utils): clean utility for commit #2150
+
+### [0.51.3] - 2026-05-11
+- refactor(core): improve utility for commit #2151
