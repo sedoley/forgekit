@@ -192,3 +192,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.85.0] - 2026-05-11
 - test(core): document utility for commit #385
+
+### [0.20.9] - 2026-05-11
+- test(docs): add utility for commit #420
