@@ -3505,3 +3505,7 @@ def helper_144():
 # Helper added in commit #5948
 def helper_148():
     return "real-change-5948"
+
+# Helper added in commit #5955
+def helper_155():
+    return "real-change-5955"
