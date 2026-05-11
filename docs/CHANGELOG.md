@@ -2934,3 +2934,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.84.5] - 2026-05-11
 - ci(core): add utility for commit #6484
+
+### [0.88.0] - 2026-05-11
+- ci(ci): add utility for commit #6488
