@@ -1731,3 +1731,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.12.5] - 2026-05-11
 - chore(tests): update utility for commit #3712
+
+### [0.18.9] - 2026-05-11
+- test(docs): refactor utility for commit #3718
