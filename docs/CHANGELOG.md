@@ -447,3 +447,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.50.1] - 2026-05-11
 - fix(tests): clean utility for commit #950
+
+### [0.56.2] - 2026-05-11
+- docs(app): refactor utility for commit #956
