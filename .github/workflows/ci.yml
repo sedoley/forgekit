@@ -79,3 +79,4 @@ jobs:
       - name: Test commit #389
       - name: Test commit #390
       - name: Test commit #392
+      - name: Test commit #393
