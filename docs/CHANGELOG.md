@@ -663,3 +663,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.57.4] - 2026-05-11
 - docs(ci): improve utility for commit #1457
+
+### [0.61.6] - 2026-05-11
+- test(utils): refactor utility for commit #1461
