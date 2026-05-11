@@ -4413,3 +4413,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.51.6] - 2026-05-11
 - refactor(app): refactor utility for commit #9951
+
+### [0.54.0] - 2026-05-11
+- perf(utils): clean utility for commit #9954
