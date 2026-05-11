@@ -885,3 +885,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.20.7] - 2026-05-11
 - refactor(docs): add utility for commit #1920
+
+### [0.25.1] - 2026-05-11
+- docs: fix utility for commit #1925
