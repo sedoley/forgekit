@@ -3033,3 +3033,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.61.1] - 2026-05-11
 - feat(utils): enhance utility for commit #6661
+
+### [0.70.0] - 2026-05-11
+- fix(core): document utility for commit #6670
