@@ -2082,3 +2082,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.26.2] - 2026-05-11
 - feat(core): add utility for commit #4426
+
+### [0.28.2] - 2026-05-11
+- chore(app): add utility for commit #4428
