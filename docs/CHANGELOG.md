@@ -339,3 +339,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.47.5] - 2026-05-11
 - fix(utils): update utility for commit #747
+
+### [0.51.5] - 2026-05-11
+- perf(app): document utility for commit #751
