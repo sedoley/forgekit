@@ -3813,3 +3813,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.19.1] - 2026-05-11
 - docs(utils): fix utility for commit #8419
+
+### [0.33.4] - 2026-05-11
+- feat(docs): enhance utility for commit #8433
