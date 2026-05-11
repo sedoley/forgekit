@@ -465,3 +465,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.82.4] - 2026-05-11
 - style(tests): enhance utility for commit #982
+
+### [0.83.7] - 2026-05-11
+- docs(app): enhance utility for commit #983
