@@ -2928,3 +2928,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.54.3] - 2026-05-11
 - style(tests): update utility for commit #6454
+
+### [0.75.0] - 2026-05-11
+- feat(core): fix utility for commit #6475
