@@ -3441,3 +3441,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.9.3] - 2026-05-11
 - feat(tests): document utility for commit #7509
+
+### [0.10.2] - 2026-05-11
+- chore(ci): enhance utility for commit #7510
