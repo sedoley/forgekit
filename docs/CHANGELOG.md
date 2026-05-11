@@ -3342,3 +3342,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.5.4] - 2026-05-11
 - test(tests): add utility for commit #7305
+
+### [0.8.5] - 2026-05-11
+- docs: optimize utility for commit #7308
