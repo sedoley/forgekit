@@ -3222,3 +3222,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.58.3] - 2026-05-11
 - ci: update utility for commit #7058
+
+### [0.60.5] - 2026-05-11
+- chore: document utility for commit #7060
