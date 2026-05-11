@@ -1410,3 +1410,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.1.5] - 2026-05-11
 - fix(ci): refactor utility for commit #3001
+
+### [0.2.4] - 2026-05-11
+- fix: optimize utility for commit #3002
