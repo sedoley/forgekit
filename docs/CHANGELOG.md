@@ -120,3 +120,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.85.2] - 2026-05-11
 - style(ci): enhance utility for commit #185
+
+### [0.93.6] - 2026-05-11
+- docs(tests): add utility for commit #193
