@@ -903,3 +903,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.55.6] - 2026-05-11
 - docs(core): add utility for commit #1955
+
+### [0.57.3] - 2026-05-11
+- ci(app): fix utility for commit #1957
