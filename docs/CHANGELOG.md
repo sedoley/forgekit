@@ -708,3 +708,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.16.0] - 2026-05-11
 - feat(docs): fix utility for commit #1516
+
+### [0.34.3] - 2026-05-11
+- chore(utils): refactor utility for commit #1534
