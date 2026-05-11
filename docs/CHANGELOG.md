@@ -3168,3 +3168,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.54.9] - 2026-05-11
 - fix(core): enhance utility for commit #6954
+
+### [0.76.9] - 2026-05-11
+- style(docs): refactor utility for commit #6976
