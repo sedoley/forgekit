@@ -2037,3 +2037,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.34.0] - 2026-05-11
 - perf(ci): document utility for commit #4334
+
+### [0.44.2] - 2026-05-11
+- perf(core): update utility for commit #4344
