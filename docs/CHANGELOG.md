@@ -870,3 +870,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.99.2] - 2026-05-11
 - chore(utils): update utility for commit #1899
+
+### [0.3.1] - 2026-05-11
+- perf(tests): document utility for commit #1903
