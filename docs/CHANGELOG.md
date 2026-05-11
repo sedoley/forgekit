@@ -588,3 +588,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.52.8] - 2026-05-11
 - test(docs): enhance utility for commit #1252
+
+### [0.59.0] - 2026-05-11
+- ci(app): add utility for commit #1259
