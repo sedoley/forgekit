@@ -259,3 +259,4 @@ jobs:
       - name: Test commit #1591
       - name: Test commit #1594
       - name: Test commit #1596
+      - name: Test commit #1617
