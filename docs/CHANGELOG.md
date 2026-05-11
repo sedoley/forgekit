@@ -609,3 +609,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.31.3] - 2026-05-11
 - ci(core): fix utility for commit #1331
+
+### [0.33.5] - 2026-05-11
+- docs(docs): add utility for commit #1333
