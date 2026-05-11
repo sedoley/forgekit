@@ -30,3 +30,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.20.5] - 2026-05-11
 - docs(ci): document utility for commit #20
+
+### [0.26.3] - 2026-05-11
+- docs(tests): update utility for commit #26
