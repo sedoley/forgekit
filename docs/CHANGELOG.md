@@ -81,3 +81,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.4.2] - 2026-05-11
 - refactor(ci): optimize utility for commit #104
+
+### [0.13.8] - 2026-05-11
+- fix(core): document utility for commit #113
