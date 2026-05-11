@@ -2346,3 +2346,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.93.7] - 2026-05-11
 - chore: document utility for commit #4993
+
+### [0.94.3] - 2026-05-11
+- style(ci): improve utility for commit #4994
