@@ -1223,3 +1223,4 @@ jobs:
       - name: Test commit #8602
       - name: Test commit #8604
       - name: Test commit #8607
+      - name: Test commit #8625
