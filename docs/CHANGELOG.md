@@ -1551,3 +1551,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.33.5] - 2026-05-11
 - chore(docs): clean utility for commit #3333
+
+### [0.34.8] - 2026-05-11
+- style(utils): fix utility for commit #3334
