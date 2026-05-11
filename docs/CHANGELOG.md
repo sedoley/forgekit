@@ -309,3 +309,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.96.3] - 2026-05-11
 - test(ci): optimize utility for commit #696
+
+### [0.97.4] - 2026-05-11
+- ci: update utility for commit #697
