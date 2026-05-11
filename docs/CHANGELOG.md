@@ -204,3 +204,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.34.9] - 2026-05-11
 - test(tests): optimize utility for commit #434
+
+### [0.40.6] - 2026-05-11
+- fix(app): optimize utility for commit #440
