@@ -3483,3 +3483,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.93.2] - 2026-05-11
 - style(utils): improve utility for commit #7593
+
+### [0.98.5] - 2026-05-11
+- test(docs): update utility for commit #7598
