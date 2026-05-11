@@ -1458,3 +1458,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.24.4] - 2026-05-11
 - style: document utility for commit #3124
+
+### [0.45.5] - 2026-05-11
+- perf(ci): add utility for commit #3145
