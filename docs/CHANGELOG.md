@@ -1935,3 +1935,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.55.7] - 2026-05-11
 - fix(app): enhance utility for commit #4055
+
+### [0.58.5] - 2026-05-11
+- refactor: optimize utility for commit #4058
