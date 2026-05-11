@@ -855,3 +855,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.65.0] - 2026-05-11
 - fix(core): update utility for commit #1865
+
+### [0.69.2] - 2026-05-11
+- test(ci): fix utility for commit #1869
