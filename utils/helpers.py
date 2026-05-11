@@ -11,3 +11,7 @@ def validate_input(data: any) -> bool:
 # Helper added in commit #6
 def helper_6():
     return "real-change-6"
+
+# Helper added in commit #17
+def helper_17():
+    return "real-change-17"
