@@ -4365,3 +4365,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.95.5] - 2026-05-11
 - chore(tests): improve utility for commit #9795
+
+### [0.0.1] - 2026-05-11
+- fix(tests): document utility for commit #9800
