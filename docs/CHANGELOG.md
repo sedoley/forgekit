@@ -2913,3 +2913,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.8.3] - 2026-05-11
 - refactor(utils): refactor utility for commit #6408
+
+### [0.12.0] - 2026-05-11
+- style(core): improve utility for commit #6412
