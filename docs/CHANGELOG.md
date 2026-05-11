@@ -4098,3 +4098,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.77.4] - 2026-05-11
 - docs(tests): clean utility for commit #9177
+
+### [0.80.9] - 2026-05-11
+- refactor: add utility for commit #9180
