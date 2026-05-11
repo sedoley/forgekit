@@ -1773,3 +1773,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.63.9] - 2026-05-11
 - docs: clean utility for commit #3763
+
+### [0.68.3] - 2026-05-11
+- chore(docs): optimize utility for commit #3768
