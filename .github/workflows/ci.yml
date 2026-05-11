@@ -480,3 +480,4 @@ jobs:
       - name: Test commit #3276
       - name: Test commit #3279
       - name: Test commit #3294
+      - name: Test commit #3302
