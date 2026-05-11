@@ -1470,3 +1470,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.56.2] - 2026-05-11
 - fix(app): enhance utility for commit #3156
+
+### [0.61.1] - 2026-05-11
+- style(app): enhance utility for commit #3161
