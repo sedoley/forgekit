@@ -3360,3 +3360,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.48.9] - 2026-05-11
 - feat(docs): add utility for commit #7348
+
+### [0.57.4] - 2026-05-11
+- fix(tests): enhance utility for commit #7357
