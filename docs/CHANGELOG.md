@@ -561,3 +561,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.89.0] - 2026-05-11
 - feat(app): enhance utility for commit #1189
+
+### [0.92.8] - 2026-05-11
+- ci(app): update utility for commit #1192
