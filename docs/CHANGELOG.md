@@ -2181,3 +2181,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.73.6] - 2026-05-11
 - fix(core): enhance utility for commit #4673
+
+### [0.76.5] - 2026-05-11
+- test(app): document utility for commit #4676
