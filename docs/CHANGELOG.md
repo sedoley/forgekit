@@ -2628,3 +2628,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.11.6] - 2026-05-11
 - fix(core): improve utility for commit #5711
+
+### [0.20.2] - 2026-05-11
+- style(core): add utility for commit #5720
