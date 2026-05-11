@@ -3306,3 +3306,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.37.3] - 2026-05-11
 - test(utils): clean utility for commit #7237
+
+### [0.38.4] - 2026-05-11
+- feat(docs): enhance utility for commit #7238
