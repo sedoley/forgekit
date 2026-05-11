@@ -1173,3 +1173,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.23.2] - 2026-05-11
 - feat(core): document utility for commit #2523
+
+### [0.24.4] - 2026-05-11
+- perf(tests): fix utility for commit #2524
