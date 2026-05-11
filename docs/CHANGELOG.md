@@ -3600,3 +3600,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.91.2] - 2026-05-11
 - style(core): refactor utility for commit #7891
+
+### [0.94.9] - 2026-05-11
+- docs: fix utility for commit #7894
