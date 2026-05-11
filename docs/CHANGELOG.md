@@ -693,3 +693,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.95.1] - 2026-05-11
 - fix(ci): improve utility for commit #1495
+
+### [0.97.0] - 2026-05-11
+- feat(core): refactor utility for commit #1497
