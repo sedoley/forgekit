@@ -1974,3 +1974,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.68.9] - 2026-05-11
 - docs: refactor utility for commit #4168
+
+### [0.72.8] - 2026-05-11
+- style(app): document utility for commit #4172
