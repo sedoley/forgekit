@@ -213,3 +213,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.59.1] - 2026-05-11
 - fix: document utility for commit #459
+
+### [0.62.1] - 2026-05-11
+- docs(ci): document utility for commit #462
