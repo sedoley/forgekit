@@ -2940,3 +2940,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.92.4] - 2026-05-11
 - fix(core): clean utility for commit #6492
+
+### [0.0.7] - 2026-05-11
+- feat(utils): refactor utility for commit #6500
