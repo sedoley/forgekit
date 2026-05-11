@@ -4239,3 +4239,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.47.4] - 2026-05-11
 - docs(app): document utility for commit #9447
+
+### [0.59.2] - 2026-05-11
+- chore(app): enhance utility for commit #9459
