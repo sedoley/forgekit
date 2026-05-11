@@ -3093,3 +3093,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.83.2] - 2026-05-11
 - chore(docs): add utility for commit #6783
+
+### [0.85.2] - 2026-05-11
+- test(core): refactor utility for commit #6785
