@@ -603,3 +603,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.19.9] - 2026-05-11
 - style: improve utility for commit #1319
+
+### [0.26.3] - 2026-05-11
+- style(tests): add utility for commit #1326
