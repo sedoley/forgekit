@@ -2202,3 +2202,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.8.4] - 2026-05-11
 - style(docs): optimize utility for commit #4708
+
+### [0.10.1] - 2026-05-11
+- style(utils): refactor utility for commit #4710
