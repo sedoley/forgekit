@@ -1167,3 +1167,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.21.0] - 2026-05-11
 - chore(tests): update utility for commit #2521
+
+### [0.22.3] - 2026-05-11
+- fix(app): improve utility for commit #2522
