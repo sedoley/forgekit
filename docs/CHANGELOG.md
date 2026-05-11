@@ -684,3 +684,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.75.0] - 2026-05-11
 - refactor(utils): enhance utility for commit #1475
+
+### [0.77.9] - 2026-05-11
+- perf(docs): clean utility for commit #1477
