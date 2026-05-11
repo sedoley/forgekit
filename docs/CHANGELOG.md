@@ -345,3 +345,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.56.5] - 2026-05-11
 - feat(utils): improve utility for commit #756
+
+### [0.57.5] - 2026-05-11
+- style(app): fix utility for commit #757
