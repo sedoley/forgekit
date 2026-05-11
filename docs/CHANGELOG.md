@@ -2697,3 +2697,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.79.7] - 2026-05-11
 - perf(app): improve utility for commit #5879
+
+### [0.90.0] - 2026-05-11
+- perf(utils): add utility for commit #5890
