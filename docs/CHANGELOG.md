@@ -69,3 +69,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.85.2] - 2026-05-11
 - fix(tests): enhance utility for commit #85
+
+### [0.93.5] - 2026-05-11
+- style(core): fix utility for commit #93
