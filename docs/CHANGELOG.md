@@ -117,3 +117,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.77.2] - 2026-05-11
 - style(tests): add utility for commit #177
+
+### [0.85.2] - 2026-05-11
+- style(ci): enhance utility for commit #185
