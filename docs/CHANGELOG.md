@@ -3111,3 +3111,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.20.9] - 2026-05-11
 - refactor(tests): optimize utility for commit #6820
+
+### [0.23.1] - 2026-05-11
+- fix(tests): clean utility for commit #6823
