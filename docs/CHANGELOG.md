@@ -3120,3 +3120,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.60.8] - 2026-05-11
 - feat(app): refactor utility for commit #6860
+
+### [0.62.9] - 2026-05-11
+- style(utils): improve utility for commit #6862
