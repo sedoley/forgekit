@@ -1512,3 +1512,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.42.7] - 2026-05-11
 - ci(ci): fix utility for commit #3242
+
+### [0.48.9] - 2026-05-11
+- refactor: add utility for commit #3248
