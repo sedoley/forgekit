@@ -3783,3 +3783,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.76.7] - 2026-05-11
 - test(docs): clean utility for commit #8376
+
+### [0.81.6] - 2026-05-11
+- refactor(app): document utility for commit #8381
