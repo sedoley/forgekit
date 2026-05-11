@@ -294,3 +294,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.48.9] - 2026-05-11
 - ci(tests): improve utility for commit #648
+
+### [0.61.7] - 2026-05-11
+- refactor(docs): improve utility for commit #661
