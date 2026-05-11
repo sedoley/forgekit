@@ -3303,3 +3303,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.30.0] - 2026-05-11
 - test(ci): clean utility for commit #7230
+
+### [0.37.3] - 2026-05-11
+- test(utils): clean utility for commit #7237
