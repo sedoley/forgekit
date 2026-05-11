@@ -2973,3 +2973,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.45.3] - 2026-05-11
 - docs(utils): add utility for commit #6545
+
+### [0.50.8] - 2026-05-11
+- test: clean utility for commit #6550
