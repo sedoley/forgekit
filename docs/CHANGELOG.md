@@ -513,3 +513,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.88.7] - 2026-05-11
 - style: optimize utility for commit #1088
+
+### [0.98.0] - 2026-05-11
+- docs(app): add utility for commit #1098
