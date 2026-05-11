@@ -429,3 +429,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.14.4] - 2026-05-11
 - style: optimize utility for commit #914
+
+### [0.16.2] - 2026-05-11
+- style(ci): clean utility for commit #916
