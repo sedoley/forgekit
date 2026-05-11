@@ -2985,3 +2985,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.70.8] - 2026-05-11
 - style: update utility for commit #6570
+
+### [0.71.7] - 2026-05-11
+- feat(utils): update utility for commit #6571
