@@ -2232,3 +2232,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.98.4] - 2026-05-11
 - test(tests): clean utility for commit #4798
+
+### [0.8.4] - 2026-05-11
+- ci(core): add utility for commit #4808
