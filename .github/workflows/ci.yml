@@ -190,3 +190,4 @@ jobs:
       - name: Test commit #1142
       - name: Test commit #1147
       - name: Test commit #1150
+      - name: Test commit #1151
