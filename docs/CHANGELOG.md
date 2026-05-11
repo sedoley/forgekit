@@ -2784,3 +2784,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.96.6] - 2026-05-11
 - feat(ci): add utility for commit #6096
+
+### [0.26.8] - 2026-05-11
+- docs(docs): document utility for commit #6126
