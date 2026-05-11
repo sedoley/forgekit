@@ -3096,3 +3096,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.85.2] - 2026-05-11
 - test(core): refactor utility for commit #6785
+
+### [0.95.9] - 2026-05-11
+- feat: refactor utility for commit #6795
