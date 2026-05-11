@@ -636,3 +636,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.1.4] - 2026-05-11
 - feat: document utility for commit #1401
+
+### [0.6.6] - 2026-05-11
+- perf(app): fix utility for commit #1406
