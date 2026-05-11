@@ -1728,3 +1728,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.2.2] - 2026-05-11
 - feat(ci): improve utility for commit #3702
+
+### [0.12.5] - 2026-05-11
+- chore(tests): update utility for commit #3712
