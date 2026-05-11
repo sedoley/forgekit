@@ -2139,3 +2139,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.48.5] - 2026-05-11
 - docs: enhance utility for commit #4548
+
+### [0.51.0] - 2026-05-11
+- test: update utility for commit #4551
