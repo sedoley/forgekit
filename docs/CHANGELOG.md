@@ -2010,3 +2010,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.66.2] - 2026-05-11
 - docs(core): update utility for commit #4266
+
+### [0.73.5] - 2026-05-11
+- chore(tests): add utility for commit #4273
