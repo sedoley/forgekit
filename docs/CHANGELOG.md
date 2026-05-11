@@ -504,3 +504,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.74.0] - 2026-05-11
 - test(utils): enhance utility for commit #1074
+
+### [0.85.0] - 2026-05-11
+- feat(docs): improve utility for commit #1085
