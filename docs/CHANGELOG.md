@@ -741,3 +741,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.28.5] - 2026-05-11
 - docs(docs): document utility for commit #1628
+
+### [0.29.8] - 2026-05-11
+- test(docs): optimize utility for commit #1629
