@@ -3147,3 +3147,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.5.5] - 2026-05-11
 - perf(app): enhance utility for commit #6905
+
+### [0.14.7] - 2026-05-11
+- chore(tests): add utility for commit #6914
