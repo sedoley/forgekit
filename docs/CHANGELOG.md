@@ -3894,3 +3894,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.38.1] - 2026-05-11
 - test(utils): clean utility for commit #8638
+
+### [0.40.1] - 2026-05-11
+- ci(utils): optimize utility for commit #8640
