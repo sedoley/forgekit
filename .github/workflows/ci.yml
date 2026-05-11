@@ -30,3 +30,4 @@ jobs:
       - name: Test commit #78
       - name: Test commit #83
       - name: Test commit #95
+      - name: Test commit #100
