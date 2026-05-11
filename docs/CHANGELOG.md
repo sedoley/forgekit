@@ -126,3 +126,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.0.9] - 2026-05-11
 - perf(tests): improve utility for commit #200
+
+### [0.12.1] - 2026-05-11
+- feat(core): refactor utility for commit #212
