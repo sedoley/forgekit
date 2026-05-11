@@ -147,3 +147,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.69.7] - 2026-05-11
 - style(app): improve utility for commit #269
+
+### [0.75.6] - 2026-05-11
+- style: improve utility for commit #275
