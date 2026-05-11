@@ -4029,3 +4029,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.22.4] - 2026-05-11
 - docs(tests): enhance utility for commit #9022
+
+### [0.44.5] - 2026-05-11
+- feat: fix utility for commit #9044
