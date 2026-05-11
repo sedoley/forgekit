@@ -351,3 +351,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.58.0] - 2026-05-11
 - test(utils): enhance utility for commit #758
+
+### [0.61.2] - 2026-05-11
+- feat(tests): improve utility for commit #761
