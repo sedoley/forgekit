@@ -546,3 +546,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.54.4] - 2026-05-11
 - docs(docs): enhance utility for commit #1154
+
+### [0.57.3] - 2026-05-11
+- perf(ci): optimize utility for commit #1157
