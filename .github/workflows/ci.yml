@@ -773,3 +773,4 @@ jobs:
       - name: Test commit #5531
       - name: Test commit #5532
       - name: Test commit #5535
+      - name: Test commit #5536
