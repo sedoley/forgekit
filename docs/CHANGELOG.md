@@ -3903,3 +3903,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.56.9] - 2026-05-11
 - chore(core): update utility for commit #8656
+
+### [0.78.9] - 2026-05-11
+- refactor(utils): improve utility for commit #8678
