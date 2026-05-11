@@ -384,3 +384,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.45.8] - 2026-05-11
 - chore(docs): enhance utility for commit #845
+
+### [0.63.7] - 2026-05-11
+- perf: add utility for commit #863
