@@ -705,3 +705,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.14.8] - 2026-05-11
 - chore(app): document utility for commit #1514
+
+### [0.16.0] - 2026-05-11
+- feat(docs): fix utility for commit #1516
