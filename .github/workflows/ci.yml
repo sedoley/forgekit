@@ -601,3 +601,4 @@ jobs:
       - name: Test commit #4313
       - name: Test commit #4329
       - name: Test commit #4331
+      - name: Test commit #4356
