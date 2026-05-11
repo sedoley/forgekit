@@ -690,3 +690,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.80.9] - 2026-05-11
 - fix(ci): enhance utility for commit #1480
+
+### [0.95.1] - 2026-05-11
+- fix(ci): improve utility for commit #1495
