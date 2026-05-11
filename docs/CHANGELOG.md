@@ -918,3 +918,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.83.7] - 2026-05-11
 - docs(app): fix utility for commit #1983
+
+### [0.95.1] - 2026-05-11
+- feat(app): refactor utility for commit #1995
