@@ -2148,3 +2148,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.78.7] - 2026-05-11
 - docs(tests): fix utility for commit #4578
+
+### [0.83.4] - 2026-05-11
+- style: clean utility for commit #4583
