@@ -963,3 +963,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.12.5] - 2026-05-11
 - style(utils): document utility for commit #2112
+
+### [0.18.8] - 2026-05-11
+- ci(app): improve utility for commit #2118
