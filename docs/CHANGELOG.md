@@ -3756,3 +3756,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.78.1] - 2026-05-11
 - style(app): clean utility for commit #8278
+
+### [0.0.2] - 2026-05-11
+- fix(tests): fix utility for commit #8300
