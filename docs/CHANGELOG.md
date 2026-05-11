@@ -2268,3 +2268,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.86.1] - 2026-05-11
 - chore: optimize utility for commit #4886
+
+### [0.88.7] - 2026-05-11
+- docs(app): improve utility for commit #4888
