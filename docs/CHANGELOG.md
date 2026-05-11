@@ -2349,3 +2349,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.94.3] - 2026-05-11
 - style(ci): improve utility for commit #4994
+
+### [0.2.4] - 2026-05-11
+- chore(utils): clean utility for commit #5002
