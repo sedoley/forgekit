@@ -1860,3 +1860,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.26.8] - 2026-05-11
 - chore: enhance utility for commit #3926
+
+### [0.39.1] - 2026-05-11
+- feat: refactor utility for commit #3939
