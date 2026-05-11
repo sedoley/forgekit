@@ -564,3 +564,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.92.8] - 2026-05-11
 - ci(app): update utility for commit #1192
+
+### [0.94.7] - 2026-05-11
+- style(tests): refactor utility for commit #1194
