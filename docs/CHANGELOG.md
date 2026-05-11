@@ -4410,3 +4410,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.45.0] - 2026-05-11
 - style(core): enhance utility for commit #9945
+
+### [0.51.6] - 2026-05-11
+- refactor(app): refactor utility for commit #9951
