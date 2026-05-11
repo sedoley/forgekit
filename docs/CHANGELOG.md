@@ -1329,3 +1329,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.14.3] - 2026-05-11
 - chore(ci): fix utility for commit #2814
+
+### [0.15.1] - 2026-05-11
+- docs(utils): enhance utility for commit #2815
