@@ -3291,3 +3291,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.1.5] - 2026-05-11
 - fix(ci): document utility for commit #7201
+
+### [0.6.5] - 2026-05-11
+- chore(tests): fix utility for commit #7206
