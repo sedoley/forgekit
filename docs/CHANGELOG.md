@@ -2460,3 +2460,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.83.2] - 2026-05-11
 - ci(core): update utility for commit #5283
+
+### [0.97.8] - 2026-05-11
+- ci(app): optimize utility for commit #5297
