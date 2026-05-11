@@ -54,3 +54,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.47.1] - 2026-05-11
 - perf(utils): clean utility for commit #47
+
+### [0.51.4] - 2026-05-11
+- perf(docs): refactor utility for commit #51
