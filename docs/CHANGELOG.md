@@ -2013,3 +2013,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.73.5] - 2026-05-11
 - chore(tests): add utility for commit #4273
+
+### [0.77.8] - 2026-05-11
+- ci(tests): enhance utility for commit #4277
