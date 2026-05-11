@@ -3099,3 +3099,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.95.9] - 2026-05-11
 - feat: refactor utility for commit #6795
+
+### [0.6.3] - 2026-05-11
+- perf(tests): update utility for commit #6806
