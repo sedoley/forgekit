@@ -342,3 +342,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.51.5] - 2026-05-11
 - perf(app): document utility for commit #751
+
+### [0.56.5] - 2026-05-11
+- feat(utils): improve utility for commit #756
