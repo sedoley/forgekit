@@ -2415,3 +2415,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.81.4] - 2026-05-11
 - test(docs): update utility for commit #5181
+
+### [0.88.3] - 2026-05-11
+- fix(docs): add utility for commit #5188
