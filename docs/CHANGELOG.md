@@ -1080,3 +1080,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.3.6] - 2026-05-11
 - style(core): optimize utility for commit #2303
+
+### [0.8.6] - 2026-05-11
+- feat(tests): document utility for commit #2308
