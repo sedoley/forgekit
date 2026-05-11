@@ -822,3 +822,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.0.9] - 2026-05-11
 - refactor(utils): clean utility for commit #1800
+
+### [0.18.8] - 2026-05-11
+- chore(ci): update utility for commit #1818
