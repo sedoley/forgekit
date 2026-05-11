@@ -3537,3 +3537,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.98.4] - 2026-05-11
 - docs(app): refactor utility for commit #7698
+
+### [0.7.5] - 2026-05-11
+- ci: optimize utility for commit #7707
