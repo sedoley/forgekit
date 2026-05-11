@@ -593,3 +593,4 @@ jobs:
       - name: Test commit #4237
       - name: Test commit #4245
       - name: Test commit #4257
+      - name: Test commit #4259
