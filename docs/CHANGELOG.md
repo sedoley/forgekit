@@ -1521,3 +1521,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.54.1] - 2026-05-11
 - ci(core): clean utility for commit #3254
+
+### [0.64.5] - 2026-05-11
+- chore(utils): enhance utility for commit #3264
