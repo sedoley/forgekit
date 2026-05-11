@@ -180,3 +180,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.56.4] - 2026-05-11
 - test: enhance utility for commit #356
+
+### [0.64.5] - 2026-05-11
+- ci(docs): document utility for commit #364
