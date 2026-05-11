@@ -4380,3 +4380,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.63.7] - 2026-05-11
 - style(docs): clean utility for commit #9863
+
+### [0.73.6] - 2026-05-11
+- feat: add utility for commit #9873
