@@ -60,3 +60,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.57.9] - 2026-05-11
 - feat(app): fix utility for commit #57
+
+### [0.76.3] - 2026-05-11
+- fix(utils): document utility for commit #76
