@@ -2787,3 +2787,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.26.8] - 2026-05-11
 - docs(docs): document utility for commit #6126
+
+### [0.35.1] - 2026-05-11
+- chore: document utility for commit #6135
