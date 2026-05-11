@@ -3639,3 +3639,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.77.5] - 2026-05-11
 - ci(utils): add utility for commit #7977
+
+### [0.84.0] - 2026-05-11
+- test(tests): add utility for commit #7984
