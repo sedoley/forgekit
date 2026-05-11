@@ -3990,3 +3990,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.28.0] - 2026-05-11
 - perf(app): fix utility for commit #8928
+
+### [0.30.0] - 2026-05-11
+- style: update utility for commit #8930
