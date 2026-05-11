@@ -3972,3 +3972,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.71.6] - 2026-05-11
 - style(ci): fix utility for commit #8871
+
+### [0.83.5] - 2026-05-11
+- style(ci): enhance utility for commit #8883
