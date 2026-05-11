@@ -2532,3 +2532,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.42.9] - 2026-05-11
 - feat: improve utility for commit #5542
+
+### [0.44.2] - 2026-05-11
+- perf(ci): improve utility for commit #5544
