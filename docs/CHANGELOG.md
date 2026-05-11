@@ -2172,3 +2172,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.55.2] - 2026-05-11
 - perf: update utility for commit #4655
+
+### [0.66.0] - 2026-05-11
+- fix(utils): add utility for commit #4666
