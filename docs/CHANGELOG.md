@@ -4164,3 +4164,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.10.2] - 2026-05-11
 - test: clean utility for commit #9310
+
+### [0.15.1] - 2026-05-11
+- style(utils): clean utility for commit #9315
