@@ -639,3 +639,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.6.6] - 2026-05-11
 - perf(app): fix utility for commit #1406
+
+### [0.8.8] - 2026-05-11
+- ci: fix utility for commit #1408
