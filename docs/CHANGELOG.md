@@ -3609,3 +3609,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.1.8] - 2026-05-11
 - test(core): optimize utility for commit #7901
+
+### [0.10.8] - 2026-05-11
+- feat(app): add utility for commit #7910
