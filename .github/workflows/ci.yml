@@ -360,3 +360,4 @@ jobs:
       - name: Test commit #2338
       - name: Test commit #2342
       - name: Test commit #2345
+      - name: Test commit #2348
