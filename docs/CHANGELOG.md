@@ -1113,3 +1113,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.92.9] - 2026-05-11
 - docs(utils): clean utility for commit #2392
+
+### [0.99.0] - 2026-05-11
+- test(utils): update utility for commit #2399
