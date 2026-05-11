@@ -1461,3 +1461,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.45.5] - 2026-05-11
 - perf(ci): add utility for commit #3145
+
+### [0.51.2] - 2026-05-11
+- fix(tests): optimize utility for commit #3151
