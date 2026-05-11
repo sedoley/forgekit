@@ -900,3 +900,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.33.2] - 2026-05-11
 - fix(ci): clean utility for commit #1933
+
+### [0.55.6] - 2026-05-11
+- docs(core): add utility for commit #1955
