@@ -500,3 +500,4 @@ jobs:
       - name: Test commit #3464
       - name: Test commit #3469
       - name: Test commit #3472
+      - name: Test commit #3474
