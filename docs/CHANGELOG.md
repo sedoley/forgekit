@@ -2586,3 +2586,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.47.5] - 2026-05-11
 - style(utils): document utility for commit #5647
+
+### [0.51.5] - 2026-05-11
+- fix(core): clean utility for commit #5651
