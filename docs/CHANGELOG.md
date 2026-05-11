@@ -858,3 +858,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.69.2] - 2026-05-11
 - test(ci): fix utility for commit #1869
+
+### [0.75.8] - 2026-05-11
+- feat(ci): refactor utility for commit #1875
