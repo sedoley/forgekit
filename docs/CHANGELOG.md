@@ -423,3 +423,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.4.3] - 2026-05-11
 - fix(ci): enhance utility for commit #904
+
+### [0.12.5] - 2026-05-11
+- refactor(docs): optimize utility for commit #912
