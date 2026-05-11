@@ -1230,3 +1230,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.16.0] - 2026-05-11
 - test(core): add utility for commit #2616
+
+### [0.19.5] - 2026-05-11
+- perf(tests): clean utility for commit #2619
