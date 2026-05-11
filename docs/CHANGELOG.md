@@ -3927,3 +3927,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.37.3] - 2026-05-11
 - fix(ci): clean utility for commit #8737
+
+### [0.45.4] - 2026-05-11
+- chore(docs): improve utility for commit #8745
