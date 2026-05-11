@@ -1383,3 +1383,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.63.8] - 2026-05-11
 - perf(docs): document utility for commit #2963
+
+### [0.65.9] - 2026-05-11
+- chore(tests): document utility for commit #2965
