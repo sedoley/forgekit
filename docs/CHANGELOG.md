@@ -255,3 +255,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.99.3] - 2026-05-11
 - docs(utils): optimize utility for commit #599
+
+### [0.3.5] - 2026-05-11
+- perf(docs): add utility for commit #603
