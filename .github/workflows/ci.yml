@@ -81,3 +81,4 @@ jobs:
       - name: Test commit #392
       - name: Test commit #393
       - name: Test commit #405
+      - name: Test commit #406
