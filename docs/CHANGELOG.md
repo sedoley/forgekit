@@ -1971,3 +1971,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.63.8] - 2026-05-11
 - feat(tests): optimize utility for commit #4163
+
+### [0.68.9] - 2026-05-11
+- docs: refactor utility for commit #4168
