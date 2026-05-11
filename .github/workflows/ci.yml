@@ -620,3 +620,4 @@ jobs:
       - name: Test commit #4470
       - name: Test commit #4481
       - name: Test commit #4489
+      - name: Test commit #4493
