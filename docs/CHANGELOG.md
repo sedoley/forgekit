@@ -1176,3 +1176,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.24.4] - 2026-05-11
 - perf(tests): fix utility for commit #2524
+
+### [0.29.4] - 2026-05-11
+- fix(app): optimize utility for commit #2529
