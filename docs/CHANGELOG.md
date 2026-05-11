@@ -798,3 +798,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.47.5] - 2026-05-11
 - feat(core): document utility for commit #1747
+
+### [0.48.8] - 2026-05-11
+- chore: add utility for commit #1748
