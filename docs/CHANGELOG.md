@@ -3204,3 +3204,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.37.7] - 2026-05-11
 - style(docs): improve utility for commit #7037
+
+### [0.45.9] - 2026-05-11
+- perf(app): clean utility for commit #7045
