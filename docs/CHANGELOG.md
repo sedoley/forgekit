@@ -4170,3 +4170,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.19.3] - 2026-05-11
 - fix(ci): improve utility for commit #9319
+
+### [0.34.6] - 2026-05-11
+- chore(tests): clean utility for commit #9334
