@@ -478,3 +478,4 @@ jobs:
       - name: Test commit #3256
       - name: Test commit #3269
       - name: Test commit #3276
+      - name: Test commit #3279
