@@ -1620,3 +1620,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.81.2] - 2026-05-11
 - test(docs): add utility for commit #3481
+
+### [0.88.3] - 2026-05-11
+- refactor(app): fix utility for commit #3488
