@@ -912,3 +912,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.78.8] - 2026-05-11
 - docs: optimize utility for commit #1978
+
+### [0.80.8] - 2026-05-11
+- feat(tests): add utility for commit #1980
