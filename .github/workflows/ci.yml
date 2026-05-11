@@ -310,3 +310,4 @@ jobs:
       - name: Test commit #1914
       - name: Test commit #1923
       - name: Test commit #1942
+      - name: Test commit #1946
