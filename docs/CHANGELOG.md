@@ -4284,3 +4284,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.63.0] - 2026-05-11
 - test: clean utility for commit #9563
+
+### [0.79.6] - 2026-05-11
+- perf(tests): enhance utility for commit #9579
