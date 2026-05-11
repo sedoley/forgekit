@@ -3276,3 +3276,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.66.7] - 2026-05-11
 - ci(utils): document utility for commit #7166
+
+### [0.74.0] - 2026-05-11
+- style: update utility for commit #7174
