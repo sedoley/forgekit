@@ -2190,3 +2190,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.82.5] - 2026-05-11
 - feat(core): document utility for commit #4682
+
+### [0.85.0] - 2026-05-11
+- feat(ci): improve utility for commit #4685
