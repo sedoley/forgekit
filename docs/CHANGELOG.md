@@ -1386,3 +1386,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.65.9] - 2026-05-11
 - chore(tests): document utility for commit #2965
+
+### [0.66.5] - 2026-05-11
+- chore(core): refactor utility for commit #2966
