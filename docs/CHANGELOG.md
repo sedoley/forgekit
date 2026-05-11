@@ -555,3 +555,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.68.9] - 2026-05-11
 - style: document utility for commit #1168
+
+### [0.70.6] - 2026-05-11
+- test(app): improve utility for commit #1170
