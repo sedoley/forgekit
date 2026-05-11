@@ -4053,3 +4053,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.3.5] - 2026-05-11
 - refactor(core): enhance utility for commit #9103
+
+### [0.6.4] - 2026-05-11
+- chore(tests): clean utility for commit #9106
