@@ -915,3 +915,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.80.8] - 2026-05-11
 - feat(tests): add utility for commit #1980
+
+### [0.83.7] - 2026-05-11
+- docs(app): fix utility for commit #1983
