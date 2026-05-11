@@ -2766,3 +2766,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.59.4] - 2026-05-11
 - test(core): optimize utility for commit #6059
+
+### [0.67.5] - 2026-05-11
+- ci(tests): fix utility for commit #6067
