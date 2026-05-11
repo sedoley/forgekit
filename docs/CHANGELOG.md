@@ -3000,3 +3000,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.11.2] - 2026-05-11
 - refactor(utils): document utility for commit #6611
+
+### [0.20.0] - 2026-05-11
+- docs(utils): add utility for commit #6620
