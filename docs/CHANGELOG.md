@@ -960,3 +960,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.97.2] - 2026-05-11
 - feat(core): clean utility for commit #2097
+
+### [0.12.5] - 2026-05-11
+- style(utils): document utility for commit #2112
