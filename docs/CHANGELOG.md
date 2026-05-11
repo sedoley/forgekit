@@ -1302,3 +1302,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.50.1] - 2026-05-11
 - perf(utils): improve utility for commit #2750
+
+### [0.62.4] - 2026-05-11
+- fix(ci): refactor utility for commit #2762
