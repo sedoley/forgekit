@@ -783,3 +783,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.73.6] - 2026-05-11
 - chore(utils): clean utility for commit #1673
+
+### [0.92.5] - 2026-05-11
+- style(ci): optimize utility for commit #1692
