@@ -4107,3 +4107,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.92.3] - 2026-05-11
 - docs(core): update utility for commit #9192
+
+### [0.94.3] - 2026-05-11
+- test(tests): update utility for commit #9194
