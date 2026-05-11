@@ -12,3 +12,7 @@ print("Valid input:", validate_input(data))
 # Helper added in commit #7
 def helper_7():
     return "real-change-7"
+
+# Helper added in commit #8
+def helper_8():
+    return "real-change-8"
