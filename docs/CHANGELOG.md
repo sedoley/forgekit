@@ -111,3 +111,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.48.7] - 2026-05-11
 - style(docs): document utility for commit #148
+
+### [0.68.5] - 2026-05-11
+- refactor(utils): fix utility for commit #168
