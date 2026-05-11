@@ -2043,3 +2043,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.48.0] - 2026-05-11
 - test(core): refactor utility for commit #4348
+
+### [0.57.9] - 2026-05-11
+- perf(utils): update utility for commit #4357
