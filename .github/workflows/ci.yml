@@ -840,3 +840,4 @@ jobs:
       - name: Test commit #6076
       - name: Test commit #6081
       - name: Test commit #6086
+      - name: Test commit #6094
