@@ -2499,3 +2499,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.96.4] - 2026-05-11
 - feat(utils): clean utility for commit #5396
+
+### [0.0.6] - 2026-05-11
+- ci(app): add utility for commit #5400
