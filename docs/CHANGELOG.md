@@ -702,3 +702,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.9.5] - 2026-05-11
 - refactor: clean utility for commit #1509
+
+### [0.14.8] - 2026-05-11
+- chore(app): document utility for commit #1514
