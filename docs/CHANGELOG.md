@@ -2265,3 +2265,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.84.4] - 2026-05-11
 - feat: improve utility for commit #4884
+
+### [0.86.1] - 2026-05-11
+- chore: optimize utility for commit #4886
