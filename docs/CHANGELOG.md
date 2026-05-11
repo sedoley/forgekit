@@ -1479,3 +1479,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.71.9] - 2026-05-11
 - perf(ci): document utility for commit #3171
+
+### [0.72.7] - 2026-05-11
+- chore(docs): add utility for commit #3172
