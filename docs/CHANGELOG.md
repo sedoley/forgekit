@@ -3063,3 +3063,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.24.2] - 2026-05-11
 - style(utils): document utility for commit #6724
+
+### [0.31.0] - 2026-05-11
+- refactor(core): optimize utility for commit #6731
