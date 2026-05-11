@@ -303,3 +303,4 @@ jobs:
       - name: Test commit #1876
       - name: Test commit #1885
       - name: Test commit #1887
+      - name: Test commit #1889
