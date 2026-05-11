@@ -3390,3 +3390,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.9.5] - 2026-05-11
 - fix(core): add utility for commit #7409
+
+### [0.11.0] - 2026-05-11
+- ci(utils): fix utility for commit #7411
