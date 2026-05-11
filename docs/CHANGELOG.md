@@ -1857,3 +1857,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.11.8] - 2026-05-11
 - feat(core): update utility for commit #3911
+
+### [0.26.8] - 2026-05-11
+- chore: enhance utility for commit #3926
