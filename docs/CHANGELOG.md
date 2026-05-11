@@ -2031,3 +2031,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.20.6] - 2026-05-11
 - style(ci): optimize utility for commit #4320
+
+### [0.32.5] - 2026-05-11
+- perf(tests): fix utility for commit #4332
