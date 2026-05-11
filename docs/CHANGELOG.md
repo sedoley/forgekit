@@ -3663,3 +3663,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.33.2] - 2026-05-11
 - chore(utils): improve utility for commit #8033
+
+### [0.40.4] - 2026-05-11
+- feat(tests): fix utility for commit #8040
