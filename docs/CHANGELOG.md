@@ -4008,3 +4008,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.79.6] - 2026-05-11
 - fix(core): clean utility for commit #8979
+
+### [0.80.9] - 2026-05-11
+- feat(tests): fix utility for commit #8980
