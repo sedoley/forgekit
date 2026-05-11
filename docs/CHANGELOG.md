@@ -4308,3 +4308,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.33.1] - 2026-05-11
 - perf(utils): improve utility for commit #9633
+
+### [0.38.5] - 2026-05-11
+- docs: fix utility for commit #9638
