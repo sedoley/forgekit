@@ -4062,3 +4062,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.11.5] - 2026-05-11
 - refactor(utils): add utility for commit #9111
+
+### [0.16.8] - 2026-05-11
+- test(utils): add utility for commit #9116
