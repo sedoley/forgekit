@@ -2022,3 +2022,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.96.5] - 2026-05-11
 - refactor(docs): add utility for commit #4296
+
+### [0.6.5] - 2026-05-11
+- perf: fix utility for commit #4306
