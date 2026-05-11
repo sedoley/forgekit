@@ -1563,3 +1563,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.42.2] - 2026-05-11
 - fix: improve utility for commit #3342
+
+### [0.44.6] - 2026-05-11
+- refactor(utils): document utility for commit #3344
