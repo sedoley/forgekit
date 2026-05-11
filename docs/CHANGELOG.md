@@ -1953,3 +1953,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.90.5] - 2026-05-11
 - fix(tests): update utility for commit #4090
+
+### [0.98.1] - 2026-05-11
+- fix(docs): clean utility for commit #4098
