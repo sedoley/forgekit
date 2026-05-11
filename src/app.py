@@ -21,3 +21,7 @@ if __name__ == "__main__":
 # Helper added in commit #10
 def helper_10():
     return "real-change-10"
+
+# Helper added in commit #21
+def helper_21():
+    return "real-change-21"
