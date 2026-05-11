@@ -3213,3 +3213,6 @@ All notable changes to this project will be documented in this file.
 
 ### [0.52.4] - 2026-05-11
 - fix: improve utility for commit #7052
+
+### [0.54.7] - 2026-05-11
+- style(utils): enhance utility for commit #7054
